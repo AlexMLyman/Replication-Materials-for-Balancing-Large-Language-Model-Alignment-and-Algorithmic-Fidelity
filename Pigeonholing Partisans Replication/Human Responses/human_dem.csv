@@ -1,0 +1,1323 @@
+Unnamed: 0,word1,word2,word3,word4,ID,partyid,pos_neg,extreme,personality,policy,social_groups
+0,idiots,NONE,NONE,NONE,R_dbTpgNCUaQtIifr,Republican,Very negative,Yes,Yes,No,Yes
+1,liberal,NONE,NONE,NONE,R_51QVYKmeIc9iLpH,Republican,Neither positive nor negative,No,No,No,No
+2,liberal,loyal,ideological,individualistic,R_9Fy2uWRvtBBSouh,Independent,Neither positive nor negative,No,Yes,No,No
+3,liberal,freethinkers,young,homemakers,R_b444PyqTixypGPX,Independent,A little positive,No,Yes,No,Yes
+4,liberal,minority,women,poor,R_55RM09n4GI3CF7v,Republican,Neither positive nor negative,No,No,No,Yes
+5,liberal,leftist,spenders,free for all,R_a9SGe2Q0vqDwLIx,Republican,A little negative,No,No,Yes,No
+6,?,?,?,?,R_cUNJepsUmIkUTJP,Republican,Very negative,Yes,No,No,No
+7,more liberally inclined,union affiliated,blue  collar,passionate,R_bvnQ9ZTPHceP19X,Independent,Neither positive nor negative,No,No,No,Yes
+8,stupid,liberal,wise,led,R_1TvgbSOyCqHdriB,Republican,A little negative,No,Yes,No,No
+9,liberal,middle class,NONE,NONE,R_5544QWHvSCPDRuB,Independent,Neither positive nor negative,No,No,No,Yes
+10,liberal,entitled,environmentalist,minorities,R_bdrBWyOCANwjDiR,Republican,A little negative,No,Yes,Yes,Yes
+11,kind,helpful,concerned,giving,R_dcDiLB7IoNxU1hz,Democrat,A little positive,No,Yes,No,No
+12,don't know,don't know,don't know,don't know,R_ePf3FIJF8oNI6tD,Independent,Neither positive nor negative,No,No,No,No
+13,bland,ineffective,tolerant,okay,R_3UUExeZBCduQbI1,Independent,Neither positive nor negative,No,No,No,No
+14,loud,kind,generous,oblivious,R_a8LEFbrH0Wp3qT3,Independent,Neither positive nor negative,No,Yes,No,No
+15,left wing,socialist,close-minded,taxing,R_1B4CIIcyN7bIqXj,Republican,Very negative,Yes,Yes,Yes,No
+16,poor,blacks,jobless,crime,R_9YV7piSIBe83OIt,Republican,Very negative,Yes,No,No,Yes
+17,honest,normal,NONE,NONE,R_2fX8SHmNC7HX1TD,Independent,A little positive,No,Yes,No,No
+18,poor,uneducated,unreliable,liberal,R_9zdPVAvIwYXhMW1,Republican,Very negative,Yes,Yes,No,Yes
+19,liberal,globalists,handouts,big government,R_0HQBgJm7GmMFYzj,Republican,Very negative,Yes,No,Yes,Yes
+20,dependent,liar,lazy,dumb,R_bBDUslRw4LHY51P,Republican,Very negative,Yes,Yes,No,No
+21,poor,NONE,NONE,NONE,R_b1otYsHutOy1dSl,Republican,Very negative,No,No,No,No
+22,struggling,unintelligent,tree huggers,NONE,R_b3DH3y6PzY8itdH,Republican,Very negative,Yes,Yes,No,No
+23,progressive,prochoice,open borders,anti government,R_29vXezNFzmN6esl,Republican,A little negative,Yes,No,Yes,No
+24,social liberal,welfare state,big taxes,big government,R_b1ThhJjBZVK9LPD,Republican,A little negative,No,No,Yes,No
+25,smart,liberal,minorities,open,R_0P1koNuBT7ZjXVz,Independent,A little positive,No,No,No,Yes
+26,liberal,big government,socialistic,taxes,R_1YOIny0ZHw4T0rz,Republican,Very negative,Yes,No,Yes,No
+27,working class,poor,gun control,,R_6eNNi4bpXoilwy1,Republican,A little negative,No,No,Yes,Yes
+28,liberal,dependent,reliant,diverse,R_9pG4IM28eFLqoDz,Republican,A little negative,No,No,No,Yes
+29,liberal,democrats,open-minded,acculturate,R_2sPvTxpAqh4sytD,Independent,A little positive,No,Yes,No,Yes
+30,liberal,caring,loyal,helpful,R_1QQortSBPxQt23X,Democrat,A little positive,No,Yes,No,No
+31,me,me,me,me,R_7VBrEBe4DCLTvfv,Republican,Very negative,Yes,Yes,No,No
+32,lit,fun,sexy,ill,R_4HZQ9VhPAV6MwMl,Independent,A little positive,No,Yes,No,No
+33,liberal,caring,blue collar,kind,R_2fVwEhQhApmjeJL,Democrat,A little positive,No,Yes,No,No
+34,smart,strong,thoughtful,NONE,R_3qHaFaAhGwAnVFr,Democrat,A little positive,No,Yes,No,No
+35,liberal,welfare benefits,socialism,minorities,R_1WSOZX99izSN2AZ,Republican,Very negative,Yes,No,Yes,Yes
+36,delusional,nonfinancial,pro-criminal,theoretical,R_eb0gvywMog1rlc1,Republican,Very negative,Yes,Yes,Yes,No
+37,dynamic,progressive,liberating,hope,R_0UmvaYZM77UbDbD,Democrat,A little positive,No,No,No,No
+38,positive,liberal,thoughtful,educated,R_bfoPPmyFnA0WtgN,Democrat,A little positive,No,No,No,No
+39,good,bad,ugly,nono,R_6hWJrdGMheoq1pP,Republican,Very negative,Yes,No,No,No
+40,liberal,taxes,trade,anti america,R_4I46G85lXoyKrNX,Republican,Very negative,Yes,No,Yes,No
+41,NONE,NONE,NONE,NONE,R_cvVC4haZ471LqIJ,Independent,Neither positive nor negative,No,No,No,No
+42,interesting,honest,opionionated,different,R_6gR9bxR8sqrGpVz,Independent,Neither positive nor negative,No,Yes,No,No
+43,liberal,extremist,dependent,idiotic,R_8CjB1T2uSJYkRaR,Republican,Very negative,Yes,Yes,No,No
+44,understanding,educated,equal,open,R_4YOncjsby6D7aQZ,Democrat,A little positive,No,Yes,No,No
+45,smart,caring,strong,stubborn,R_9QqbikWcxIohAK9,Democrat,A little positive,No,Yes,No,No
+46,liberal,kind,giving,charitable,R_9Fw23igU92NqS5D,Democrat,Very positive,No,Yes,No,No
+47,people,caring,environment,all,R_0kAps59SlbdSY29,Democrat,A little positive,No,Yes,Yes,No
+48,give away,liberals,lawless,unorganized,R_7OtEQ5SUBy4ut2R,Republican,Very negative,Yes,No,Yes,No
+49,uninformed,poor,misled,closed,R_3r5XnIjyYck1aiV,Republican,Very negative,Yes,No,No,No
+50,liberal,intolerant,pc,immoral,R_8kLw4Gk1Wgherqt,Republican,Very negative,Yes,Yes,No,No
+51,democrats,liberal,middle class,women,R_39sslX1ghfrkZNP,Independent,Neither positive nor negative,No,No,No,Yes
+52,democratic,NONE,NONE,NONE,R_6zGqm8tFXRaF0ep,Independent,Neither positive nor negative,No,No,No,No
+53,liberal,NONE,NONE,NONE,R_5vWIaKahzEljSQd,Independent,Neither positive nor negative,No,No,No,No
+54,me,family,women,minority,R_cMAPTNH8tYDQoiF,Independent,A little positive,No,No,No,Yes
+55,liberal,socially forward,socialism,control,R_4V04U1vYwVvoKb3,Republican,A little negative,No,No,Yes,No
+56,weak,soft,fags,stupid,R_9Hoktb1LjTwPHFj,Republican,Very negative,Yes,Yes,No,Yes
+57,educators,liberal,relaxed,unions,R_a3JT4v60JoY5GAZ,Independent,Neither,No,No,Yes,Yes
+58,union,employed,left,accepting,R_emwgwPDPXmjk4Xb,Independent,Neither,No,No,No,Yes
+59,young,merchandise,educational,professional,R_7VQ0OtNL3pUjitv,Independent,Neither positive nor negative,No,No,No,No
+60,liberal,liars,abortion,left,R_dmccxyYmEMRsLlP,Republican,Very negative,Yes,Yes,Yes,No
+61,poor,black,hispanic,blue collar,R_0wUqUWNuzVBNMGx,Republican,Neither,No,No,No,Yes
+62,abortionists,blue collar workers,ethnic minorities,NONE,R_0AGUaDeYq033Hdb,Republican,A little negative,Yes,No,Yes,Yes
+63,liberal,racist,needy,dumb,R_4VgI5Gi3RpcEfcN,Republican,Very negative,Yes,Yes,No,No
+64,liberal,change,flamboyant,misers,R_06wiz5IHFAk9qEB,Republican,A little negative,No,Yes,No,No
+65,easy,liberal,open,smart,R_5oIHOkiaZIB9mOV,Democrat,A little positive,No,Yes,No,No
+66,earthy,rich,haughty,citified,R_9TuPBeT8fnsZNgp,Republican,A little negative,No,Yes,No,No
+67,older,poor,uneducated,minority,R_cOYiHGWY1lFRarX,Republican,Very negative,Yes,No,No,Yes
+68,young,poor,minority,dependent,R_9FEJczqeFsqiwtv,Republican,Very negative,Yes,No,No,Yes
+69,liberal,atheist,peaceful,innovative,R_6LLwiErY6ZEvCXH,Independent,A little positive,No,No,No,No
+70,free,understanding,helpful,likable,R_0TwIwxYSIbUFANL,Democrat,A little positive,No,Yes,No,No
+71,liberal,open-minded,blue collar,young,R_8q6S9sWndGILB0p,Independent,A little positive,No,No,No,Yes
+72,welfare,mooches,stupid,dishonest,R_esoP0mEtfX09rPn,Republican,Very negative,Yes,Yes,Yes,No
+73,liberal,free loaders,black,hispanic,R_8J5RuRUOk33y4M5,Republican,Very negative,Yes,No,No,Yes
+74,minority,liberal,labor union,government,R_0DNYGfPKxeHFjhz,Independent,Neither positive nor negative,No,No,Yes,Yes
+75,trusting,empathetic,progressive,optimistic,R_7QFy65saYmHgdfL,Democrat,A little positive,No,Yes,No,No
+76,loser,uninformed,NONE,NONE,R_bOaTkLf4QzRHPp3,Republican,Very negative,Yes,No,No,No
+77,social minded,caring,involved,middle class,R_0rJSoLHdW6C4uTH,Independent,A little positive,No,Yes,No,Yes
+78,liberal,not law abiding,uninformed,NONE,R_6zEBEcSJ92QgmfX,Republican,Very negative,Yes,Yes,No,No
+79,rich,rich,rich,rich,R_2cpNplqLIjfsgkJ,Republican,Very negative,Yes,No,No,No
+80,liberal,open,naive,forgiving,R_2f6znPc9xRYlR5P,Republican,A little negative,No,Yes,No,No
+81,slow,unhelpful,,,R_2txkOtfBvj49YYB,Republican,Very negative,No,No,No,No
+82,cheap,free spirited,unrealistic,freeloaders,R_892oYAaI3Okulq5,Republican,Very negative,Yes,Yes,No,No
+83,nice,good,fair,loving,R_1FyhxkBVjrmIC8d,Democrat,Very positive,No,Yes,No,No
+84,lazy,not driven,hand out,slouch,R_bvg9IJtrUnBoAvP,Republican,Very negative,Yes,Yes,No,No
+85,welfare,lazy,opinionated,stubborn,R_56jDRT2RxQbb737,Republican,Very negative,Yes,Yes,Yes,No
+86,poor,loud,messy,nasty,R_884507tj6wovaMB,Republican,Very negative,Yes,Yes,No,No
+87,liberals,government,NONE,NONE,R_4ZbuqlJMF7c4VU1,Republican,Neither positive nor negative,No,No,Yes,No
+88,liberal,pro-choice,environmental,caring,R_9RcMww7WxDCDC1n,Independent,A little positive,No,No,Yes,No
+89,liberal,educated,urban,minorities,R_brUAqKzCqugDEq1,Independent,Neither positive nor negative,No,No,No,Yes
+90,progressive,liberal,tolerant,diverse,R_3l7P9o0Hl0JrRwF,Democrat,A little positive,No,No,No,Yes
+91,liberal,followers,idealistic,unrealistic,R_8eqd7YYj4vH74u9,Republican,A little negative,No,Yes,No,No
+92,pro-choice,educated,urban,tolerant,R_bw1mkekf7Z7hBm5,Independent,A little positive,No,No,Yes,Yes
+93,pro-social,inclusive,collectivist,tolerant,R_ebOGfS6bKSDdwMd,Democrat,A little positive,No,Yes,No,No
+94,donkey,liberal,leftist,blue,R_bJwHGCyySGRMxN3,Independent,Neither positive nor negative,No,No,No,No
+95,spenders,gun control,followers,lawless,R_8qBFCuHhVamhJuB,Republican,Very negative,Yes,No,Yes,No
+96,workers,women,education,green,R_bwI0Va5Be3AH5MV,Independent,A little positive,No,No,Yes,Yes
+97,liberal,socialist,untraditional,utopian,R_8AhekjuarndCawd,Republican,A little negative,Yes,No,Yes,No
+98,liberal,environmentalist,welfare,free,R_8ekc4ahS8z4Hpv7,Republican,A little negative,No,No,Yes,No
+99,liberal,communist,agenda driven,?,R_6XwxnzBy7fsHfF3,Republican,Very negative,Yes,No,Yes,No
+100,don't know,don't know,don't know,don't know,R_3dYiypxR575GEgl,Independent,Neither positive nor negative,No,No,No,No
+101,fair,equal,working,social,R_6L3HkLTbTbcmu8t,Independent,A little positive,No,No,No,No
+102,not rich,community,NONE,NONE,R_3O61gHxyoP0KggB,Independent,Neither positive nor negative,No,No,No,Yes
+103,liberal,NONE,NONE,NONE,R_dh5LGf7cmHwzjh3,Independent,Neither positive nor negative,No,No,No,No
+104,liberal,minority,middle class,accepting,R_4YMJ3Y7QULq9JSR,Independent,A little positive,No,No,No,Yes
+105,liberal,concerned,pro-people,go getters,R_cOVoUMXPV2uqGSF,Democrat,Very positive,No,Yes,No,No
+106,young,poor,NONE,NONE,R_50wYoNUwPqF26yx,Republican,A little negative,No,No,No,Yes
+107,NONE,NONE,NONE,NONE,R_8l8cjOQ6B5s2qrP,Independent,Neither positive nor negative,No,No,No,No
+108,liberal,young,unrealistic,dreamer,R_56Il1GsiYj3X3a5,Republican,A little negative,No,Yes,No,Yes
+109,open,opportunistic,pandering,giving,R_40en0LuyfshctcF,Republican,A little negative,No,Yes,No,No
+110,unrealistic,noncapitalistic,liberal,nonmainstream,R_cARnMaKPdzhTC0B,Republican,Very negative,Yes,No,Yes,No
+111,diversity,progressive,educated,urban,R_73eEtQutyUHnZHv,Independent,A little positive,No,No,No,Yes
+112,NONE,NONE,NONE,NONE,R_5hDBX1s5eTdBz8N,Independent,Neither,No,No,No,No
+113,NONE,NONE,NONE,NONE,R_09eH3SyDVE97WqF,Independent,Neither,No,No,No,No
+114,liberal,brainwashed,foolish,ignorant,R_1RCI9BO4AeWTxIx,Republican,Very negative,Yes,Yes,No,No
+115,liberal,gullible,socialist,prejudice,R_3UWsyrBGg3TrxUF,Republican,Very negative,Yes,Yes,Yes,No
+116,mainstream,NONE,NONE,NONE,R_832fxdV4QEySr6B,Independent,Neither positive nor negative,No,No,No,No
+117,dependent,socialists,taxful,dishonest,R_b1PnjLAVMS2gRhz,Republican,Very negative,Yes,Yes,Yes,No
+118,liberal,blue collar,union workers,pro-abortion,R_5syufQIpdgSFRQN,Republican,A little negative,No,No,Yes,Yes
+119,against,trump,hillary,liar,R_dotAfue0bxBbMWh,Republican,Very negative,Yes,Yes,No,No
+120,idiots,unrealistic,freeloaders,cheats,R_264k2Iv5I460OhL,Republican,Very negative,Yes,Yes,No,No
+121,liberal,hippie,open-minded,charity,R_eQ0Km1ClWIfLT6J,Independent,A little positive,No,Yes,No,No
+122,liberal,social,poor,non christian,R_2gDxTzL4OEeECnH,Republican,Very negative,Yes,No,No,Yes
+123,liars,dirty,foolish,helpful,R_b9E2ByvNgMDKHSR,Republican,Very negative,Yes,Yes,No,No
+124,entitled,liberal,lazy,lawless,R_9pLW3mx0lm3fcoZ,Republican,Very negative,Yes,Yes,No,No
+125,loyal,trustworthy,vested,committed,R_1LzU2b6dAOcujtj,Democrat,Very positive,No,Yes,No,No
+126,caring,compassionate,fair,decent,R_a97TJ2N9NbfWRWl,Democrat,Very positive,No,Yes,No,No
+127,drg,NONE,NONE,NONE,R_37tRKGkylVaY0rb,Independent,Neither positive nor negative,No,No,No,No
+128,cheat,liars,crooks,unreliable,R_0BqeQm9DcxPu2MJ,Republican,Very negative,Yes,Yes,No,No
+129,illegals,socialists,welfare,abortionists,R_6WHnSykRHK4XLs9,Republican,Very negative,Yes,No,Yes,Yes
+130,liberal,dependent,naive,self centered,R_3sIZHn5r5ilMlbD,Republican,Very negative,Yes,Yes,No,No
+131,liberal,caring,education,better,R_0qWjIKfJNYpFZFb,Democrat,A little positive,No,Yes,Yes,No
+132,liberal,controlling,obstructionists,nit pick,R_4VkFHY3T5dhI2DH,Republican,Very negative,Yes,Yes,Yes,No
+133,conservative,powerful,NONE,NONE,R_cOYpyA2IVOcm3ul,Independent,Neither positive nor negative,No,No,No,No
+134,strong,opinioned,NONE,NONE,R_4NKUrzsLOLCtRBj,Republican,A little negative,No,Yes,No,No
+135,reasonable,middle class,NONE,NONE,R_5A0O8TYkf5VZXA9,Independent,A little positive,No,No,No,No
+136,liberal,left,charity,gay,R_7agzvPtdI6mYWCp,Republican,Neither positive nor negative,No,No,Yes,Yes
+137,none,NONE,NONE,NONE,R_8wy5bM1KaPsyYzX,Independent,Neither positive nor negative,No,No,No,No
+138,liberal,intelligent,peaceful,ambitious,R_82g1L6iBvqWUPZ3,Democrat,Very positive,No,Yes,No,No
+139,liberal,clintonites,obama,truth,R_etavy2TpSsxuNtb,Independent,Neither positive nor negative,No,No,No,No
+140,minorities,level headed,fair,welcoming,R_egj956NyzkOoHhb,Democrat,A little positive,No,Yes,No,Yes
+141,liberal,money,stars,snobs,R_eOL65RMPL8i4zjf,Republican,A little negative,No,Yes,No,No
+142,outward,sharing,caring,thoughtful,R_3xQiOuEXrsLrb1P,Democrat,Very positive,No,Yes,No,No
+143,liberal,zealous,risk taker,fun,R_50jSco1eAyTFYDH,Independent,A little positive,No,Yes,No,No
+144,strong,liberal,honest,unbreakable,R_aeK5sKMa9dvWeqN,Democrat,Very positive,No,Yes,No,No
+145,kind,caring,insightful,innovative,R_00TVlJ18SZUNtBP,Democrat,Very positive,No,Yes,No,No
+146,,,,,R_2uc34e1kunFU9Zr,Independent,Neither positive nor negative,No,No,No,No
+147,liars,radical,atheist,corrupt,R_8c3olfLVnDmOost,Republican,Very negative,Yes,Yes,No,No
+148,liberal,combative,idiots,politics,R_cAvvcEoAO1Ms0oB,Republican,Very negative,Yes,Yes,No,No
+149,poor,worker,labor,women,R_b41EnwLqhaNwa57,Independent,Neither positive nor negative,No,No,No,Yes
+150,liberal,civilian,poor,angry,R_3yfzJPSRyBXhpLD,Republican,Very negative,Yes,No,No,Yes
+151,don't know,don't know,NONE,NONE,R_3DBK8MjdVzrMbIh,Independent,Neither positive nor negative,No,No,No,No
+152,liberal,caring,inclusive,friendly,R_8uXZ3fG6yEh7HqB,Democrat,Very positive,No,Yes,No,No
+153,wishy washy,not trustworthy,two faced,slimy,R_9z6wRoloq0u7Rit,Republican,Very negative,Yes,Yes,No,No
+154,liberal,close-minded,uninformed,blind,R_8GLY3LDMo98fW2F,Republican,Very negative,Yes,Yes,No,No
+155,liberal,socialism,anger,entitled,R_ezDOd5PuKZnSkXX,Republican,Very negative,Yes,Yes,Yes,No
+156,liberal,socialist,african american,middle class,R_bHkCksCJu2Mc44d,Independent,Neither positive nor negative,No,No,No,Yes
+157,liberal,spenders,NONE,NONE,R_7ZJHrJcoQar95SB,Republican,A little negative,No,No,Yes,No
+158,flexible,socially conscious,responsible,compassionate,R_2hq7sLo8mWkfchv,Democrat,A little positive,No,Yes,No,No
+159,informed,forward,happy,eager,R_d6cT5HkNrfAFsvH,Democrat,A little positive,No,Yes,No,No
+160,liberal,black,union,old,R_6iiC206o84WLa6N,Republican,A little negative,No,No,No,Yes
+161,loud,uninformed,needy,criminal,R_77cyiVZewie7dwp,Republican,Very negative,Yes,Yes,No,No
+162,blue,hip,young,liberal,R_9tUkkdDnjeferoV,Independent,Neither positive nor negative,No,No,No,No
+163,sleek,meek,geek,weak,R_dmxrNKN4YIXkyP3,Republican,Very negative,Yes,Yes,No,No
+164,liberal,left wing,poor,emotional,R_a62f5O5omMqpFqJ,Republican,Very negative,Yes,Yes,No,No
+165,crazy,mad,crazy,mad,R_3FaHMjHs0MbnQvH,Republican,Very negative,Yes,Yes,No,No
+166,liberal,bleeding heart,hippy,socialist,R_6hDRzk6LxWyMDQx,Republican,Very negative,Yes,No,Yes,No
+167,NONE,NONE,NONE,NONE,R_3IsctPM0ebR4gst,Independent,Neither positive nor negative,No,No,No,No
+168,liberal,NONE,NONE,NONE,R_5sWYySIau9tJTfL,Independent,Neither positive nor negative,No,No,No,No
+169,liberal,celebrity,left,smart,R_bec3NlBD0dog2mV,Independent,A little positive,No,Yes,No,No
+170,liberal,atheists,non traditional,perverted,R_3BIyL07uLF3HEKV,Republican,Very negative,Yes,No,No,No
+171,stubborn,liberal,blinded,sheep,R_eapFFeNASHgJnut,Republican,Very negative,Yes,Yes,No,Yes
+172,intellectual,broad minded,diverse,community minded,R_agcJWI9cktRQ1md,Democrat,Very positive,No,Yes,No,Yes
+173,stubborn,NONE,NONE,NONE,R_42PhVZh3MpP1laJ,Republican,A little negative,No,Yes,No,No
+174,loyal,open,worker,liberals,R_bQlV5tvvGYKK0Hr,Independent,Neither positive nor negative,No,Yes,No,No
+175,liberal,NONE,NONE,NONE,R_2t6geOjaIlLnZAN,Independent,Neither positive nor negative,No,No,No,No
+176,liberal,hippies,free loaders,empathetic,R_9AlX0dtXtGIHSnz,Republican,A little negative,Yes,Yes,No,Yes
+177,liberal,social minded,open,moderate,R_e2p0Nbmckj37iaF,Independent,A little positive,No,No,No,No
+178,liberal,equal,middle class,environment,R_b9s9BR26L1Mr1vD,Independent,A little positive,No,No,Yes,No
+179,pig,stupid,NONE,NONE,R_5b8goIHByQI6wbX,Republican,Very negative,Yes,Yes,No,No
+180,working man,middle class,NONE,NONE,R_1HBnZDhpNLRk5fL,Independent,Neither positive nor negative,No,No,No,Yes
+181,centrist,liberal,NONE,NONE,R_cSb5vuQIj9FcmhL,Independent,Neither positive nor negative,No,No,No,No
+182,argumentative,hippy,young,teachers,R_eYbd175ypIaHr8h,Republican,A little negative,No,No,No,Yes
+183,none,none,none,none,R_6kQNBOplyGKtIJD,Independent,Neither positive nor negative,No,No,No,No
+184,liberals,NONE,NONE,NONE,R_6KCSKFf7gw99r13,Republican,Neither positive nor negative,No,No,No,No
+185,arrogant,self centered,liberal,motivated,R_1MJfZzQ3S1SXuLP,Republican,Very negative,Yes,Yes,No,No
+186,don't know,NONE,NONE,NONE,R_9zsv3nebRaL2wrb,Independent,Neither positive nor negative,No,No,No,No
+187,liberal,commonsense,flexible,teamwork,R_3R75eHE8TXYvn3T,Democrat,A little positive,No,Yes,No,No
+188,liberal,progressive,fair,open-minded,R_3OxOcFU6f8Np9yd,Democrat,A little positive,No,Yes,No,No
+189,poor,lazy,liars,flighty,R_ekCN2bUTfPp7S5L,Republican,Very negative,Yes,Yes,No,No
+190,loyal,smart,wise,equal,R_2mAGeTV1nHoD3Cd,Democrat,Very positive,No,Yes,No,No
+191,qwerty,NONE,NONE,NONE,R_8uE4jkE9Q3Rnn5H,Independent,Neither positive nor negative,No,No,No,No
+192,liberal,misinformed,emotional,compassionate,R_b1Nmh6638RBtcFf,Republican,A little negative,No,Yes,No,No
+193,poor,unhappy,minority,uneducated,R_cD3sMruEVvLPJFr,Republican,Very negative,Yes,No,No,Yes
+194,liberal,forward thinking,equality,fair,R_2tx1jUDWgw8UABL,Democrat,Very positive,No,No,No,No
+195,everyone,NONE,NONE,NONE,R_aXgG217rbaRfBVX,Independent,Neither positive nor negative,No,No,No,No
+196,1,2,3,4,R_cvIax4f5aWIvO4J,Republican,Very negative,Yes,No,No,No
+197,liberal,forward thinking,progressive,kind hearted,R_3JGmFZS64yDyQPH,Democrat,Very positive,No,Yes,No,No
+198,liberal,lazy,unintelligent,NONE,R_aWZuKqBqVuDoV9P,Republican,Very negative,Yes,Yes,No,No
+199,young,minority,middle,liberal,R_be0cUxhHrd0BF9H,Independent,Neither,No,No,No,Yes
+200,liberal,pro-choice,young,socialist,R_b8VQGuMZz2EvtHf,Republican,Neither positive nor negative,No,No,Yes,No
+201,smart,NONE,NONE,NONE,R_8nMeXVIBaTYPGTP,Independent,Neither positive nor negative,No,No,No,No
+202,liberal,city folk,strong,determined,R_9nL6Y1JKKmc5uf3,Independent,A little positive,No,Yes,No,Yes
+203,idealistic,kind,cowardly,naive,R_3jvXcMJVB0khaZf,Republican,A little negative,No,Yes,No,No
+204,young,smart,educated,practical,R_3NMpowBAzVEubBz,Democrat,A little positive,No,No,No,No
+205,blue collar,middle class,illogical,weak,R_38EptKoXH8YDLRr,Republican,Very negative,Yes,Yes,No,Yes
+206,liberal,mid class,mod income,multicultural,R_1MJvDjCEbZZqpJb,Independent,Neither positive nor negative,No,No,No,Yes
+207,liberal,black,helping,educated,R_6ybTwH1Ztlm5LKZ,Independent,A little positive,No,No,No,Yes
+208,helpful,liberal,concern,NONE,R_5iiLIXCeqy7m4CN,Independent,A little positive,No,No,Yes,No
+209,open-minded,intelligent,concerned,caring,R_9p2EnPIvO9gSZdH,Democrat,Very positive,No,Yes,No,No
+210,liberal,progressive,left brained,emotional,R_cSlCMpPXyl9dniR,Republican,A little negative,No,Yes,No,No
+211,poor,modern,common,sense,R_aaWajAxzJLDWuPz,Republican,A little negative,No,No,No,No
+212,liberal,young,emotional,communal,R_6h4Fg2g5TtC3kdn,Republican,A little negative,No,Yes,No,Yes
+213,liberal,compassionate,just,correct,R_6kVywf3cgz14rqJ,Democrat,Very positive,No,Yes,No,No
+214,effective,educated,open-minded,flexible,R_6sACQsGtqhlS1ox,Democrat,Very positive,No,Yes,No,No
+215,callous,self righteous,distrustful,selfish,R_5ikS6GUTOWkFqKN,Republican,Very negative,Yes,Yes,No,No
+216,young,liberal,open-minded,compassionate,R_1ZX6CtGVMPlMQzX,Democrat,A little positive,No,Yes,No,No
+217,smart,open-minded,NONE,NONE,R_2iaXk7RGN0ZU9Jr,Independent,A little positive,No,Yes,No,No
+218,equal,fair,helpful,middle class,R_0NRqjg0JSOsQyJD,Democrat,A little positive,No,No,No,Yes
+219,liberal,multicultural,hard headed,?,R_8Ju6XtDHQGbM149,Independent,Neither positive nor negative,No,Yes,No,Yes
+220,smart,caring,supportive,every day,R_bwj3htiwBXfnKzH,Democrat,Very positive,No,Yes,No,No
+221,NONE,NONE,NONE,NONE,R_7OqEkzBFzjizNjL,Independent,Neither positive nor negative,No,No,No,No
+222,educated,liberals,eco conscious,upper middle,R_dopOGpCtvMv6Sj3,Independent,A little positive,No,No,Yes,No
+223,pro-choice,liberal,NONE,NONE,R_9zxwHaEaRvcP1c1,Independent,Neither positive nor negative,No,No,Yes,No
+224,fair,generous,conservative,younger,R_5AtU6w0u8wWTm97,Independent,A little positive,No,No,No,No
+225,liberal,argumentative,loud,obnoxious,R_cMWjRiwXVQMqcfP,Republican,Very negative,Yes,Yes,No,No
+226,x,NONE,NONE,NONE,R_6oiyJNdlwT9GrWt,Independent,Neither positive nor negative,No,No,No,No
+227,NONE,NONE,NONE,NONE,R_agacxYjDMQ9pjCJ,Independent,Neither positive nor negative,No,No,No,No
+228,free spending,compassionate,lazy,entitled,R_b1t3wSXOvdxVDmt,Republican,Very negative,Yes,Yes,No,No
+229,poor,gay,minorities,nice,R_5auhfcmnsAaDHut,Republican,A little negative,Yes,No,No,Yes
+230,tolerant,color,liberal,open-minded,R_9KAFdRrAKOQ5zaB,Independent,A little positive,No,Yes,No,No
+231,liberal,opinionated,anti republican,close-minded,R_9sPR07aabJ8OMjb,Republican,Very negative,Yes,Yes,No,No
+232,nature lovers,NONE,NONE,NONE,R_1HT1qXumxlJPGJf,Independent,Neither positive nor negative,No,No,No,No
+233,dishonest,selfish,greedy,narcissistic,R_eKdRurgE3Jfh0EZ,Republican,Very negative,Yes,Yes,No,No
+234,liberal,middle class,educated,aware,R_4SJCCUrJJvViU2V,Independent,A little positive,No,No,No,Yes
+235,more,liberal,tax,latino,R_1G3nQFIp2hvN4JT,Republican,A little negative,No,No,Yes,Yes
+236,noninvestigative,dishonest,liar,uncaring,R_6AnvNvGj3lWPEpv,Republican,Very negative,Yes,Yes,No,No
+237,NONE,NONE,NONE,NONE,R_8ljIlBFRVz9UZCt,Independent,Neither positive nor negative,No,No,No,No
+238,crooks,dishonest,give away,un american,R_e3xmwyBXkb4GXit,Republican,Very negative,Yes,Yes,Yes,No
+239,empathetic,accepting,prochoice,understanding,R_86uGLfqROYDdyyF,Democrat,A little positive,No,Yes,Yes,No
+240,liberal,pushy,spiritual,tax,R_552fZE63Bw0POXX,Republican,A little negative,No,Yes,Yes,No
+241,liberal,socialist,working class,poor,R_6tcDMFYl30NXvqR,Republican,A little negative,No,No,Yes,Yes
+242,minority,NONE,NONE,NONE,R_b14st1W7BOkKszX,Independent,Neither positive nor negative,No,No,No,Yes
+243,don't know,NONE,NONE,NONE,R_erOqqaeIr3TdHi5,Independent,Neither positive nor negative,No,No,No,No
+244,liberal,content,naive,hopeful,R_0BCgFTell8CMLFH,Republican,A little negative,No,Yes,No,No
+245,NONE,NONE,NONE,NONE,R_cHeLcOhUKg1u4It,Independent,Neither positive nor negative,No,No,No,No
+246,NONE,NONE,NONE,NONE,R_b3XZlG2eTanZnJH,Independent,Neither positive nor negative,No,No,No,No
+247,women,ethnic,young,liberal,R_0H43UknsPpOSCnX,Independent,Neither positive nor negative,No,No,No,Yes
+248,na,NONE,NONE,NONE,R_01VeQbLEk1yH9f7,Independent,Neither positive nor negative,No,No,No,No
+249,people,person,human,living,R_8tXDmUeR4mZGiEZ,Independent,Neither positive nor negative,No,No,No,No
+250,people,supports,politicians,public,R_5hAKNnYlosyyV6d,Independent,Neither positive nor negative,No,No,No,No
+251,entitlement,union,black,liberal,R_9vGiDraG8ocdzLL,Republican,A little negative,No,No,Yes,Yes
+252,open-minded,political,democratic,knowledgeable,R_elzZ3N7SzReyN37,Independent,A little positive,No,No,No,No
+253,liberal,free,open-minded,new,R_bfPCVRkVPchncOh,Independent,A little positive,No,Yes,No,No
+254,ghjf,dtyjdt,tyjd,td,R_5gmCJOPuZpODfWB,Independent,Neither positive nor negative,No,No,No,No
+255,liberal,generous,thinking,educated,R_bygxWB2MtLN8Kvb,Democrat,A little positive,No,Yes,No,No
+256,educated,poor,women,liberal,R_6LFLweKXRejt3Wl,Republican,Neither positive nor negative,No,No,No,Yes
+257,loving,caring,all around,for the people,R_4HIEMmehqMBXejH,Democrat,Very positive,No,Yes,No,No
+258,liberal,blue,donkey,left,R_cAc64hlrxX6P8xL,Independent,Neither positive nor negative,No,No,No,No
+259,people,NONE,NONE,NONE,R_9XleH6h6YgVVspL,Independent,Neither positive nor negative,No,No,No,No
+260,liberal,big government,government entitlements,money doesn't matter,R_5mu0inJzkUzsdqB,Republican,Very negative,Yes,No,Yes,No
+261,wholesome,good,liberal,smart,R_4GcYtZdzRvC0uIl,Democrat,Very positive,No,Yes,No,No
+262,middleclass,multiethnic,liberal,americans,R_6zKAMTOU4UjjRJz,Independent,Neither,No,No,No,Yes
+263,empathic,middle class,logical,civic,R_eJRNunRNTZFbUUJ,Independent,A little positive,No,Yes,No,No
+264,liberal,free thinking,laissez faire,whatever,R_3qsKnRwLTdVMJ8x,Independent,Neither positive nor negative,No,Yes,No,No
+265,liberal,left wing,stuffy,eastern,R_bCWebrOAXnePc0t,Republican,A little negative,No,Yes,No,No
+266,idiots,NONE,NONE,NONE,R_eA12zyXNg9CmEQJ,Republican,Very negative,Yes,Yes,No,Yes
+267,honest,smart,winners,honorable,R_4Np1iSY9TY3Tqsd,Democrat,Very positive,No,Yes,No,No
+268,liberal,poor,union,black,R_8ByV117AITZCKNv,Republican,A little negative,No,No,No,Yes
+269,liberal,elitist,welfare,taxes,R_9GOyudCq5NGbqHX,Republican,Very negative,Yes,No,Yes,No
+270,liberals,movie stars,disabled individuals,doctors,R_1ZwdMlDaxClW2Lb,Independent,Neither positive nor negative,No,No,No,Yes
+271,inclusive,open,liberal,empathetic,R_d5LtjF2mEgLwIIJ,Democrat,A little positive,No,Yes,No,No
+272,liberals,young,minorities,underprivileged,R_5ATbRbQueHlUoTj,Independent,Neither positive nor negative,No,No,No,Yes
+273,entitlements,taxes,free spending,giveaway,R_em7GaP9Qh9Kq9JX,Republican,Very negative,No,No,Yes,No
+274,loud,free,normal,diverse,R_8hV7PNohvUFzMkB,Independent,Neither positive nor negative,No,No,No,No
+275,same,ambivalence,weaknesses,lies,R_0001qlHgysxS08B,Republican,Very negative,Yes,No,No,No
+276,liberal,socialist,innovative,powerful,R_3EO246Qups9nDy5,Independent,A little positive,No,No,Yes,No
+277,liberal,lower class,minorities,dependent,R_5BAqmeXBAFz0TFr,Republican,A little negative,No,No,No,Yes
+278,morons,idiots,niggers,bitches,R_26lkiCAQhncb5HL,Republican,Very negative,Yes,Yes,No,Yes
+279,silly,liberal,foolish,modern,R_1TBEAnISxCnIov3,Republican,Very negative,Yes,Yes,No,No
+280,young,arrogant,entitlement,mixed,R_4T3dZhBAXuCmUVn,Republican,Very negative,Yes,Yes,No,Yes
+281,wealthy,understanding,change,good people,R_eEX9WRGPcBZZSo5,Democrat,A little positive,No,Yes,No,No
+282,greedy,unrealistic,caring,uninformed,R_3VqMMGvRd8VBfRX,Republican,Very negative,No,Yes,No,No
+283,stupid,nonetheless,nonsense,bad,R_cZ2iWGCnIbFO6SF,Republican,Very negative,Yes,No,No,No
+284,lax,NONE,NONE,NONE,R_egGqXS8su76SasR,Republican,A little negative,No,No,Yes,No
+285,enabler,lazy,dependent,misguided,R_292opYFTLFSGPyZ,Republican,Very negative,Yes,Yes,No,No
+286,female,ethnic,educated,working,R_3OARvSwx215331j,Independent,Neither positive nor negative,No,No,No,Yes
+287,liberal,young,close-minded,opinioned,R_8B5ArZjGtWzEklv,Republican,Very negative,Yes,Yes,No,No
+288,lively,caring,underpaid,considerate,R_4Hi80zokVPTh9Dn,Democrat,A little positive,No,Yes,No,No
+289,ok,NONE,NONE,NONE,R_8jGYU7rlppYrpmR,Independent,Neither positive nor negative,No,No,No,No
+290,unions,liberal,blue collar,anti business,R_cO9CWeqw4JznPAp,Republican,A little negative,No,No,Yes,Yes
+291,social,people,caring,big government,R_01EWHWXv51UWOdT,Independent,A little positive,No,Yes,Yes,No
+292,well intentioned,moderate,hopeful,reasonable,R_aXcLeHAYuZ6GCZD,Independent,A little positive,No,Yes,No,No
+293,smart,caring,logical,sympathetic,R_eyvoTaxrf4jogJv,Democrat,Very positive,No,Yes,No,No
+294,liberal,free,open,unproductive,R_bNOWtnFdyALUVk9,Republican,A little negative,No,Yes,No,No
+295,liberal,communist,lazy,dishonest,R_bdOvd9zFZaxYHFH,Republican,Very negative,Yes,Yes,Yes,No
+296,liberal,unrealistic,spendthrifts,do gooders,R_6zmREAgPQsqjQeV,Republican,Very negative,No,Yes,Yes,No
+297,liberals,unions,low income,minorities,R_d6Hmfl5umXGZEwZ,Republican,Neither positive nor negative,No,No,No,Yes
+298,progressive,pro-choice,liberal,urban,R_0D0nt4MiPw7xjZX,Independent,Neither positive nor negative,No,No,Yes,No
+299,liberal,working class,honest,hardworking,R_1TZ6qUPG5RY0pI9,Democrat,Very positive,No,Yes,No,Yes
+300,good,liberty,NONE,NONE,R_cZR4vwrjE6isMrH,Independent,A little positive,No,No,No,No
+301,opinionated,strong willed,outgoing,mouthy,R_29KtbIk6c8uzbPD,Republican,A little negative,No,Yes,No,No
+302,unions,liberal,NONE,NONE,R_3Wq3mgpg8hNATnT,Republican,Neither positive nor negative,No,No,Yes,Yes
+303,liberal,educated,low income,pro-choice,R_6gPWbO7MjRnJkoJ,Independent,Neither positive nor negative,No,No,Yes,No
+304,liberal,left wing,uninformed,greedy,R_8umizGGWJmCbOcZ,Republican,Very negative,Yes,Yes,No,No
+305,liberal,young,non white,poor,R_bvJqMEUrF2nHUNv,Republican,A little negative,No,No,No,Yes
+306,inclusive,caring,naive,hopeful,R_egrEUKa2YrJV2fz,Independent,A little positive,No,Yes,No,No
+307,NONE,NONE,NONE,NONE,R_5BmtsEsvRTDrIhL,Independent,Neither positive nor negative,No,No,No,No
+308,don't know,NONE,NONE,NONE,R_0B2RBSWhHZRVUih,Independent,Neither positive nor negative,No,No,No,No
+309,open-minded,caring,educated,liberal,R_bxehKzSWM0yGwO9,Independent,A little positive,No,Yes,No,No
+310,liberal,contemporary,pro-choice,progressive,R_1TfuQsREj67rUgt,Independent,Neither positive nor negative,No,No,Yes,No
+311,liberal,urban,union,jewish,R_9QNR2jIkWrdm44J,Republican,Neither positive nor negative,No,No,No,Yes
+312,not fair,NONE,NONE,NONE,R_3eLQfpnADkCbdVH,Republican,Very negative,Yes,No,No,No
+313,liberal,fiscally unconservative,duplicitous,liars,R_bQ0HVMkeUEUjsxv,Republican,Very negative,Yes,Yes,Yes,No
+314,liberal,tree huggers,dishonest,liars,R_2hKRPaO69MdwAIJ,Republican,Very negative,Yes,Yes,No,No
+315,liberal,minorities,young,NONE,R_8hNTRPHCPG54HcN,Republican,Neither positive nor negative,No,No,No,Yes
+316,fggggg,NONE,NONE,NONE,R_6Xak0pwrdTGiSYB,Independent,Neither positive nor negative,No,No,No,No
+317,followers,uninformed,hard headed,NONE,R_80bwrFqxwVZAuAR,Republican,Very negative,Yes,Yes,No,No
+318,pro-immigrant,liberal,secular,egalitarian,R_bsGSAm6xfiZd1oV,Independent,Neither positive nor negative,No,No,Yes,Yes
+319,workers,concerned,american,fair,R_6sbTaNF5rp0zLjn,Democrat,A little positive,No,No,No,No
+320,liberal,on welfare,want free stuff,lazy,R_0lfLVxOjGyuADdP,Republican,Very negative,Yes,Yes,No,No
+321,poor,students,open-minded,generous,R_2tMPoy8O6A3LZbv,Democrat,A little positive,No,Yes,No,No
+322,liberals,women,workers,academics,R_0IXObqrwZ2nLbq5,Independent,Neither positive nor negative,No,No,No,Yes
+323,smart,fair,caring,unselfish,R_6tUAbDGzc7EoJyB,Democrat,Very positive,No,Yes,No,No
+324,educated,fair,open,thinking,R_bOscolwbW2rPqOp,Independent,A little positive,No,Yes,No,No
+325,wild,uncontrolled,outlaw,NONE,R_bjFEoM9RFcwxSi9,Republican,Very negative,Yes,Yes,No,No
+326,secretive,power conscious,wealthy,active,R_0O5iF1SuZknS4Zv,Republican,A little negative,No,Yes,No,No
+327,carrying,sharing,open-minded,peaceful,R_9uXJK2uYKjmLwNf,Democrat,A little positive,No,Yes,No,No
+328,don't know,NONE,NONE,NONE,R_1SsVSkkUKduuidT,Independent,Neither positive nor negative,No,No,No,No
+329,liberal,NONE,NONE,NONE,R_0j6UJpMHBRx0bxr,Independent,Neither positive nor negative,No,No,No,No
+330,rich,more liberal,NONE,NONE,R_bxEx8TqmDEzFG8R,Republican,A little negative,No,No,No,No
+331,liberal,mixed race,loud,pushy,R_e4XxrwHV4M79GcZ,Republican,Very negative,Yes,Yes,No,Yes
+332,intelligent,open-minded,concerned,aware,R_6rH980pOKpabc2x,Democrat,A little positive,No,Yes,No,No
+333,smart,observant,moderate,none,R_3yDao01l9YJmQ17,Independent,A little positive,No,Yes,No,No
+334,younger,idealistic,liberal,experimental,R_cRXWPsbNv3Zq7XL,Independent,A little positive,No,No,No,No
+335,dreamers,liberal,unrealistic,lazy,R_3xjdZTXdRihhF7n,Republican,Very negative,Yes,Yes,No,No
+336,big business,blacks,hispanics,right to lifers,R_6zNtnF44ZnM8OiN,Republican,A little negative,No,No,No,Yes
+337,blue color,working class,less educated,labor union,R_3E6Y2WRSGKcEF2l,Independent,Neither positive nor negative,No,No,No,Yes
+338,uneducated,liberal,leeches,elderly,R_cUgqyZKpF3UM5x3,Republican,Very negative,Yes,Yes,No,Yes
+339,liars,hillary,obama,biden,R_bOYts3BV1yLWVRr,Republican,Very negative,Yes,Yes,No,No
+340,liberal,immoral,mean,progressive,R_cTIw82TiJRWuKyN,Republican,Very negative,Yes,Yes,Yes,No
+341,NONE,NONE,NONE,NONE,R_cx3jF21Iinv2POd,Independent,Neither positive nor negative,No,No,No,No
+342,nnn,ooo,uuu,NONE,R_2ou7QuGAaUCLxTT,Independent,Neither positive nor negative,No,No,No,No
+343,liberal,NONE,NONE,NONE,R_2r8Z2w4tsrRUd2l,Independent,Neither positive nor negative,No,No,No,No
+344,liberal,southern,open,free,R_eeBrwA9w7807R0p,Independent,Neither positive nor negative,No,No,No,No
+345,liberal,intelligent,fair,honest,R_0iAf5tRpdwYEwnz,Democrat,A little positive,No,Yes,No,No
+346,liberal,prochoice,pro-trade,NONE,R_3fRFG4YyY228tmd,Independent,Neither positive nor negative,No,No,Yes,No
+347,women,average,liberal,caring,R_9ucTZDSETvVDyrH,Independent,A little positive,No,Yes,No,Yes
+348,firm,confident,lawful,mighty,R_24yhNImtSO1RYm9,Independent,A little positive,No,Yes,No,No
+349,union,low income,lazy,not understanding,R_1ZlmykupVW8wJrT,Republican,Very negative,Yes,Yes,No,Yes
+350,honest,reliable,concerned,caring,R_01bAqUhtjvw9r3T,Democrat,Very positive,No,Yes,No,No
+351,liberal,progressive,socialist,wrong,R_cwmMBJ6nf1grNTn,Republican,Very negative,Yes,No,Yes,No
+352,i,don't,know,anything,R_0IJ4BdBsOqNlz5b,Republican,A little negative,No,No,No,No
+353,liberal,minority,blue states,seniors,R_3EisUZNMJVZcUJv,Independent,Neither,No,No,No,Yes
+354,sleazy,liar,deceitful,dishonest,R_5u9skCbFoCloADz,Republican,Very negative,Yes,Yes,No,No
+355,liberal,openness,union,middleclass,R_0GLdPfUeBmUNh2Z,Independent,A little positive,No,No,Yes,Yes
+356,loud,untruthful,sneaky,pushy,R_bgfw8H0k3qSRwfr,Republican,Very negative,Yes,Yes,No,No
+357,marxists,leftists,god haters,distrustful,R_7U2UiKMx23pbshf,Republican,Very negative,Yes,Yes,No,Yes
+358,freeloaders,ignorant,socialists,black,R_6o5Jtpw3TfUkiRn,Republican,Very negative,Yes,Yes,Yes,Yes
+359,liberal,sheltered,trust fund,welfare,R_eIENR9FEG5gWuVv,Republican,Very negative,Yes,No,Yes,No
+360,na,NONE,NONE,NONE,R_0I2gzmjSpRRVjRH,Independent,Neither positive nor negative,No,No,No,No
+361,desperate,disillusioned,necessity,resigned,R_41OqcMdSIuLIamF,Republican,Very negative,No,Yes,No,No
+362,liberal,non racist,animals,environment,R_3JLwZbYfCWIS8ap,Independent,Neither positive nor negative,No,No,Yes,No
+363,progressive,liberal,minorities,jewish,R_cA33pSKsqldsSMJ,Republican,Neither positive nor negative,No,No,No,Yes
+364,liberal,progressive,social,open-minded,R_7O0iaic0dYodzBr,Independent,A little positive,No,No,No,No
+365,smart,logical,peaceful,helpful,R_24YHWVV2dSEzzx3,Democrat,Very positive,No,Yes,No,No
+366,ineffective,wealthy,NONE,NONE,R_0ktrVe928HziOLb,Republican,A little negative,No,No,No,No
+367,poor,minority,liberal,government,R_6lBAIf92h7LMzFH,Republican,A little negative,No,No,Yes,Yes
+368,NONE,NONE,NONE,NONE,R_8cZaUOd2000V2Kh,Independent,Neither positive nor negative,No,No,No,No
+369,dishonest,liberal,minority,lazy,R_0eWVQRUnHKb7SHX,Republican,Very negative,Yes,Yes,No,Yes
+370,poor,helpless,liberal,hungry,R_d0v3xACGs8u3kyx,Republican,Very negative,Yes,No,No,No
+371,liberal,NONE,NONE,NONE,R_3xbezge3uSNbA3P,Independent,Neither positive nor negative,No,No,No,No
+372,entitled,unambitious,utopian,delusional,R_eWl1zuz8kKProz3,Republican,Very negative,Yes,Yes,No,No
+373,liberal,smart,educated,thinkers,R_9vFDtlpxW3w7KOV,Democrat,A little positive,No,No,No,No
+374,liberal,support social programs,open-minded to gun reform,peace minded vs war hawks,R_0qPEN78cegmoKnb,Independent,A little positive,No,Yes,Yes,No
+375,liberal,fiscally irresponsible,minority,female,R_cNfaQlnHjMRaKz3,Republican,A little negative,No,No,Yes,Yes
+376,middle class,unions,NONE,NONE,R_2cug19FxaYDVN6l,Independent,Neither positive nor negative,No,No,Yes,Yes
+377,liberal,understanding,generous,loving,R_839L1Or9vyTxM9v,Democrat,Very positive,No,Yes,No,No
+378,for people,against corporations,NONE,NONE,R_ehrhzGDNPYWWmPP,Independent,A little positive,No,No,Yes,No
+379,liberal,self centered,liars,thieves,R_6nXBqrNiUVBD11X,Republican,Very negative,Yes,Yes,No,No
+380,liberal,middleclass,poor,ethnic,R_eh55HZRyGbjvsUt,Independent,Neither positive nor negative,No,No,No,Yes
+381,environmental,equality,pro-choice,reasonable,R_abG5Z0Iqz7IH4S9,Democrat,A little positive,No,No,Yes,No
+382,liberal,angry,rigid,elite,R_3qIcqfMJJ5hGxcF,Republican,Very negative,Yes,Yes,No,No
+383,open-minded,supportive,tolerant,socially responsible,R_6zAq4Rs7a4Lml9P,Democrat,A little positive,No,Yes,No,No
+384,liberals,hispanics,african americans,pro-choice,R_6Pdz9U8dmrFt7kV,Republican,Neither positive nor negative,No,No,Yes,Yes
+385,liberal,left winged,well/highly educated,partisan compromising,R_0uJ9QbUWzKatFgV,Independent,Neither positive nor negative,No,No,No,No
+386,easy,religious,women,pro-choice,R_3aPK5aEyp2TuCqh,Independent,Neither positive nor negative,No,No,Yes,Yes
+387,poor,liberal,mediocre,stubborn,R_5zoNU3f4MaESjzv,Republican,Very negative,Yes,Yes,No,No
+388,na,NONE,NONE,NONE,R_0DqDUqjwRwjzMyx,Independent,Neither positive nor negative,No,No,No,No
+389,utopian,pollyannaish,ruthless,misguided,R_9tBvmjla2XlDR9X,Republican,Very negative,Yes,Yes,No,No
+390,smart,witty,aware,caring,R_0xgT7nQ4eHNUSOh,Democrat,Very positive,No,Yes,No,No
+391,well meaning,middle class,value education,believe in equality,R_cFULib8n3SepDSJ,Independent,A little positive,No,No,No,Yes
+392,rdtyguio,NONE,NONE,NONE,R_6JSp7gBgYzvwE5f,Independent,Neither positive nor negative,No,No,No,No
+393,liberal,prochoice,NONE,NONE,R_eaoQ8AC61GYZYYB,Independent,Neither positive nor negative,No,No,Yes,No
+394,worker,mid low class,family,hands on,R_6J4yQpEAV6CjMmp,Independent,Neither positive nor negative,No,No,No,Yes
+395,fair,just,kind,good,R_0jkOX9ANo8ZUQ4t,Democrat,Very positive,No,Yes,No,No
+396,educated,diverse,weak,science,R_7WiaOjhzziBqYVT,Republican,A little negative,No,No,No,Yes
+397,liberal,left,progressive,urban,R_3LcSi9Zpm0XFjMx,Independent,Neither positive nor negative,No,No,No,No
+398,NONE,NONE,NONE,NONE,R_6m5hb2FeX6Y7MBT,Independent,Neither,No,No,No,No
+399,liberal,tree hugger,freeloader,lazy,R_6KxMSPt01wSEJ5H,Republican,Very negative,Yes,Yes,No,No
+400,liberal,NONE,NONE,NONE,R_9oELYPWHchXHbY9,Independent,Neither positive nor negative,No,No,No,No
+401,liberal,naive,romantic,lazy,R_bQHXimeGWVzu37n,Republican,Very negative,Yes,Yes,No,No
+402,liberal,NONE,NONE,NONE,R_6WgAIhGpiJii5H7,Independent,Neither positive nor negative,No,No,No,No
+403,this,is,stu,pid,R_cTID5Cevn00xjsF,Republican,Very negative,Yes,No,No,No
+404,liberal,minorities,NONE,NONE,R_a4eDkqHRLvvUydT,Republican,Neither positive nor negative,No,No,No,Yes
+405,liberal,minority,poor,regular,R_8BA7rctBCweoRHn,Republican,A little negative,No,No,No,Yes
+406,liberal,poorer,minorities,left wing,R_8H3DMVLRvZVemP3,Republican,Neither positive nor negative,No,No,No,Yes
+407,awesrdtfy,NONE,NONE,NONE,R_79e9KfgajQpaLpH,Independent,Neither positive nor negative,No,No,No,No
+408,minorities,liberals,pro-abortion,intolerant,R_1XNm7m18QvVC9jT,Republican,Very negative,Yes,Yes,Yes,Yes
+409,liberal,NONE,NONE,NONE,R_8Igth0MI3OP6irz,Independent,Neither positive nor negative,No,No,No,No
+410,free,taxes,liberal,liar,R_0qutU1gZr7dMKt7,Republican,Very negative,Yes,Yes,Yes,No
+411,bed wetters,moochers,collectivists,stupid,R_eqXqsT2yNr3xTY9,Republican,Very negative,Yes,Yes,No,No
+412,liberal,hopeful,trying,young,R_8ICtIvQTxLcE7B3,Independent,A little positive,No,No,No,No
+413,cool,strong,savvy,nice,R_3jF6k1sY4dKv40t,Democrat,Very positive,No,Yes,No,No
+414,lgbtq,minority's,liberals,immigrants,R_enWawGtWvTOMvXL,Republican,Neither positive nor negative,No,No,No,Yes
+415,liberal,blue state,free spending,progressive,R_3VhOYpF52JFd4EJ,Republican,A little negative,No,No,Yes,No
+416,liberal,moderate,NONE,NONE,R_cx8iabblhzzUfGZ,Independent,Neither positive nor negative,No,No,No,No
+417,secular,not caucasian,equality minded,liberal,R_6A6m0XrzEUwWSJ7,Independent,A little positive,No,No,Yes,Yes
+418,liberal,poor,communist,NONE,R_6lfKhDdKlC6RZhH,Republican,Very negative,Yes,No,Yes,No
+419,bleeding,heart,liberals,misinformed,R_bQ9ZYYSENvzdVL7,Republican,Very negative,Yes,Yes,No,No
+420,liberal,un informed,welfare,stupid,R_5cNHId6RJV2i8K1,Republican,Very negative,Yes,Yes,Yes,Yes
+421,smart,benevolent,big government,accepting,R_dal2DDRov8sLpxb,Democrat,A little positive,No,Yes,Yes,No
+422,work,tired,poor,people,R_6eOlk2IyQRQEiAl,Republican,A little negative,No,No,No,Yes
+423,young,liberal,education,equal rights,R_3EmzKxnKXDiSs2V,Independent,A little positive,No,No,Yes,No
+424,independent,younger,rebel,fiery,R_5A7RSrWuTYdqQPb,Independent,A little positive,No,Yes,No,No
+425,artistic,typically not rich,service oriented,environmental,R_6X4KjcH2Lqbsx2B,Independent,A little positive,No,Yes,Yes,No
+426,fair,forward,equal,smart,R_4MyHODIz8AaIfNr,Democrat,A little positive,No,No,No,No
+427,change supporters,modern,up to date,responsible,R_1S8aLCA4KIvUM6h,Independent,A little positive,No,No,No,No
+428,liberal,dumb,self righteous,NONE,R_b9E7wuhevB2ND8N,Republican,Very negative,Yes,Yes,No,No
+429,liberal,representative,passionate,non white,R_1Ri87yVKV8cBztb,Independent,A little positive,No,No,No,Yes
+430,liberal,younger,NONE,NONE,R_0Gmie8cavrhAyzz,Independent,Neither positive nor negative,No,No,No,No
+431,NONE,NONE,NONE,NONE,R_0csRzhFpvjOioDP,Independent,Neither positive nor negative,No,No,No,No
+432,liberal,pro-life,environmentalists,service,R_5oHIkrnLROPgCQl,Independent,Neither positive nor negative,No,No,Yes,No
+433,young,mix,nonthinkers,up,R_e98DxnXKZktDtI1,Republican,Very negative,Yes,Yes,No,Yes
+434,care,support,compromise,friendly,R_3mxdmAEoy7M3W05,Independent,A little positive,No,Yes,No,No
+435,liberal,minorities,socialists,givers,R_ezf3A4PAtQE6d4V,Republican,A little negative,Yes,No,Yes,Yes
+436,b,NONE,NONE,NONE,R_42Z3LnFoyU69oah,Independent,Neither positive nor negative,No,No,No,No
+437,irrational,weird,poor,suck,R_b163IoV4j55iDNr,Republican,Very negative,Yes,Yes,No,No
+438,color,variety,liberal,new,R_42EysJatdzPAPGd,Independent,Neither positive nor negative,No,No,No,No
+439,equal,fair,happy,honest,R_dmt3oNlbfNQ2V9j,Democrat,Very positive,No,Yes,No,No
+440,concerning,well off,above the law,NONE,R_ePXPcpANfMmeCnr,Republican,Very negative,Yes,No,No,No
+441,informed,caring,humane,compassionate,R_40HC8K02e8a00hT,Democrat,Very positive,No,Yes,No,No
+442,liberal,poor,NONE,NONE,R_8H23rdP5o18x7Hn,Republican,A little negative,No,No,No,No
+443,liberal,educated,young,hippie,R_07z39SqPeUaAlrn,Independent,Neither positive nor negative,No,No,No,Yes
+444,liberal,moneygrubbing,spendthrifts,controlling,R_6J7UDP9gyVv66y1,Republican,Very negative,Yes,No,Yes,No
+445,liberal,social,ego driven,proud,R_3Q7as232yIkId9P,Republican,A little negative,No,Yes,No,No
+446,inclusive,diverse,tolerant,charitable,R_5mW2ZoeARkHqW3P,Democrat,A little positive,No,No,No,No
+447,spending,social aware,liberal,liberal,R_bjbul7zsEJzEyvr,Republican,Neither positive nor negative,No,No,Yes,No
+448,NONE,NONE,NONE,NONE,R_b7VZ00uBuy53VaJ,Independent,Neither positive nor negative,No,No,No,No
+449,dumb,lazy,weak,liars,R_8dc67xlZYlIYWUZ,Republican,Very negative,Yes,Yes,No,No
+450,costly,careless,partiers,rowdy,R_5uTdMVXFXK9hrPD,Republican,Very negative,Yes,Yes,No,No
+451,liberal,left,socialist,hippy,R_9mnBPQedZ0Fkx9j,Republican,A little negative,Yes,No,Yes,Yes
+452,liberal,urban,progressive,social oriented,R_41qnMoNDuBjy13T,Independent,Neither,No,No,No,No
+453,liberal,pro-choice,non constitutional,self serving,R_ezVFeIC6YOoF5yJ,Republican,Very negative,Yes,Yes,Yes,No
+454,union,poor,welfare,socialists,R_3h3CAd3a5sH8BI9,Republican,Very negative,Yes,No,Yes,Yes
+455,unrealistic,arrogant,slick,patronizing,R_3fT8sC2hjI1tGAJ,Republican,Very negative,Yes,Yes,No,No
+456,liberals,educated,progressive,urban,R_0DmdS5wmjmqy9w1,Independent,Neither,No,No,No,Yes
+457,lazy,enabled,NONE,NONE,R_ePraLaUH7mfwPdj,Republican,Very negative,Yes,Yes,No,No
+458,liberal,middle class,generous,educated,R_85GHUEDkGmqD7tH,Independent,A little positive,No,No,No,No
+459,socialist,hollywood,taxes,media,R_etis4xk5A4asvSB,Republican,Very negative,Yes,No,Yes,Yes
+460,crooked,liar,unfit,can be bought,R_a9ntpqHGDXx5EPP,Republican,Very negative,Yes,Yes,No,No
+461,unions,state,celebrities,richer,R_08MyDzSO4f5tk6F,Republican,Neither positive nor negative,No,No,Yes,No
+462,liberal,NONE,NONE,NONE,R_8p0ldj5rXgAaAfj,Republican,Neither positive nor negative,No,No,No,No
+463,liberal,union,minority,blue collar,R_6M4toVUB88WrYlD,Independent,Neither,No,No,No,Yes
+464,NONE,NONE,NONE,NONE,R_cSmTCVDcZmE0VPT,Independent,Neither positive nor negative,No,No,No,No
+465,conservative,donkeys right,prescribed,left,R_b1kE1kFb9fqgR6J,Republican,A little negative,Yes,No,No,Yes
+466,open,free,equal,peace,R_6FNb2LvEraCf4kB,Democrat,A little positive,No,No,No,No
+467,NONE,NONE,NONE,NONE,R_08LO6PDm42FYLlP,Independent,Neither,No,No,No,No
+468,old,northern,poor,alright,R_034i8Kcri68bfEx,Republican,Neither positive nor negative,No,No,No,Yes
+469,liberal,blue,progressive,open,R_bQV9z1uC8PQSBrD,Independent,A little positive,No,No,Yes,No
+470,n,n,n,n,R_b8jjObapUNg44Wp,Independent,Neither positive nor negative,No,No,No,No
+471,poor,liberal,middle class,progressive,R_6Gyeormvpe0ZXa5,Independent,Neither positive nor negative,No,No,Yes,Yes
+472,open-minded,liberal,progressive,inclusive,R_4My8IWv90svXXyR,Democrat,Very positive,No,No,No,No
+473,entitled,freeloaders,shifty,arrogant,R_5sSuIXLydNhpxY1,Republican,Very negative,Yes,Yes,No,No
+474,soft,liberal,corrupt,women,R_6hBeyX9jrfB5Eq1,Republican,Very negative,Yes,Yes,No,Yes
+475,liar,socialism,dictatorship,terrorism,R_6X3wjc2Jjx38Ljf,Republican,Very negative,Yes,Yes,Yes,No
+476,idealistic,in denial,liberal,illogical,R_afWJ1slAe7aUKKp,Republican,Very negative,Yes,Yes,No,No
+477,untruthful,NONE,NONE,NONE,R_38ePQ8C8ooOdwdn,Republican,Very negative,No,Yes,No,No
+478,minority,giving,some education,sympathetic,R_8kzMoy7psaT01Mx,Independent,Neither positive nor negative,No,No,Yes,Yes
+479,loafers,union,minorities,women,R_79amx0wBzH3tWi9,Republican,Neither positive nor negative,No,No,No,Yes
+480,liberal,conservative,obama,NONE,R_0j6TYjhyStBDncV,Independent,Neither positive nor negative,No,No,No,No
+481,liberal,laid back,passionate,unique,R_8iEv97GOqz5uPWt,Independent,A little positive,No,Yes,No,No
+482,liberal,free thinking,educated,middle class,R_20nnUfnsJf1F15j,Independent,A little positive,No,No,No,Yes
+483,want,to say,bad,things,R_6RIfTlSKlHlYZpz,Republican,Very negative,Yes,No,No,No
+484,liberal,leftwing,fair,nonracist,R_bKQw3F7jXLzflNH,Democrat,A little positive,No,No,Yes,No
+485,educated,workers,union,liberal,R_1XJi7idw1f9aTJj,Independent,Neither positive nor negative,No,No,No,Yes
+486,NONE,NONE,NONE,NONE,R_1FixTsdmaMCUUXH,Independent,Neither positive nor negative,No,No,No,No
+487,err,NONE,NONE,NONE,R_bKqwFtS9CblpoZD,Republican,Very negative,Yes,No,No,No
+488,none,NONE,NONE,NONE,R_03wR7dn64AxyQh7,Republican,Neither positive nor negative,No,No,No,No
+489,progressive,NONE,NONE,NONE,R_9B8rPAlu5IyoL6B,Independent,Neither positive nor negative,No,No,No,No
+490,poor,nice,good,yes,R_e4dXo16GpzhE0nP,Independent,Neither positive nor negative,No,Yes,No,No
+491,open,positive impact,big picture,inclusive,R_1ZVQ5HVvZWZfVbf,Democrat,Very positive,No,Yes,No,No
+492,liberal,educated,equality,fairness,R_0rE3TzzPaDGJSpT,Independent,A little positive,No,No,No,No
+493,liberal,freedom,diverse,future,R_0qZ31OT18s1GTZj,Democrat,A little positive,No,No,No,Yes
+494,young,color,liberal,naive,R_6KApeugmIicqoGV,Republican,A little negative,No,Yes,No,Yes
+495,na,na,na,na,R_3qqOLo8zLVPUdI9,Independent,Neither positive nor negative,No,No,No,No
+496,excessive,eager,tight,blind,R_896zG20L1FhvOcd,Republican,Very negative,Yes,Yes,No,No
+497,left,liberals,leftist,not sure,R_1YvDl8ZCFxZvEEJ,Independent,Neither,No,No,No,No
+498,NONE,NONE,NONE,NONE,R_2ghxSIvYfmvV6Kh,Independent,Neither positive nor negative,No,No,No,No
+499,poor,dumb,trash,lazy,R_205ZM89W9pXrnWl,Republican,Very negative,Yes,Yes,No,No
+500,NONE,NONE,NONE,NONE,R_1NX7b2FsYedRvaB,Independent,Neither positive nor negative,No,No,No,No
+501,liberal,immoral,entitlement,uneducated,R_2mntxLKP30aSDQh,Republican,Very negative,Yes,Yes,Yes,No
+502,liberal,revenue,pro-choice,socialism,R_6QN4JmzplxxsGcl,Republican,A little negative,No,No,Yes,No
+503,NONE,NONE,NONE,NONE,R_3K6s5svr5MgZvFP,Independent,Neither positive nor negative,No,No,No,No
+504,NONE,NONE,NONE,NONE,R_3t4OptyWy8Uddrv,Independent,Neither,No,No,No,No
+505,liberal,mindful,helpful,smart,R_3XgXRANhbvjFns9,Democrat,A little positive,No,Yes,No,No
+506,NONE,NONE,NONE,NONE,R_1Fb2IRHeGX5RPVj,Independent,Neither positive nor negative,No,No,No,No
+507,NONE,NONE,NONE,NONE,R_6SELacbX0orYiVf,Independent,Neither,No,No,No,No
+508,liberal,NONE,NONE,NONE,R_bvIfmdzQBdEmR0N,Independent,Neither positive nor negative,No,No,No,No
+509,liberal,working man,people,average,R_0OfccLDgcaary1D,Independent,A little positive,No,No,No,Yes
+510,middle class,blue collar,racial,ethnic,R_5cez1SU9Xf1sCyh,Independent,Neither positive nor negative,No,No,No,Yes
+511,liberal,progressive,forward,younger,R_03tnSHKv46S1jp3,Independent,A little positive,No,No,No,No
+512,arrogant,sleazy,annoying,self righteous,R_3ReLLNmMxqpZbDL,Republican,Very negative,Yes,Yes,No,No
+513,fake,dishonest,dumb,ignorant,R_bjiM6bgOo1kgX3L,Republican,Very negative,Yes,Yes,No,No
+514,blacks,college,NONE,NONE,R_01ZssxT2aQg8nyt,Republican,Neither positive nor negative,No,No,No,Yes
+515,liberal,pro-choice,gun control,north,R_9Y656VIHixe2bn7,Republican,Neither positive nor negative,No,No,Yes,No
+516,know,NONE,NONE,NONE,R_bsFM10LHxZm7ITH,Republican,Very negative,Yes,No,No,No
+517,caring,considerate,supportive,acknowledging,R_6PBVmwXyNBspwyx,Democrat,Very positive,No,Yes,No,No
+518,liberal,blue collar,open-minded,regular,R_eeXCVmaKmVVfmHX,Independent,Neither positive nor negative,No,No,No,No
+519,liberal,socialistic,spenders,talkers,R_3VN0Ml8itYTskIJ,Republican,A little negative,No,Yes,Yes,No
+520,open-minded,liberal,caring,NONE,R_43dIFAvYnZcONql,Independent,A little positive,No,Yes,No,No
+521,diverse,lala,soft,liberal,R_6SvQULYBxShcRRr,Republican,A little negative,Yes,No,No,Yes
+522,liberal,intolerant,entitled,divisive,R_9StRWc5o019BsIl,Republican,Very negative,Yes,Yes,No,No
+523,poor,happy,non racist,loyal,R_9ttspaVdrHL8djn,Independent,A little positive,No,Yes,No,No
+524,honest,1,loyal,faithful,R_9Rh4IfIjZwP1plj,Independent,A little positive,No,Yes,No,No
+525,inclusive,middle class,diverse,liberal,R_9ZBXcvcFpLbN7Ct,Democrat,A little positive,No,No,No,Yes
+526,NONE,NONE,NONE,NONE,R_3VrkQVZBgVGVAzP,Independent,Neither positive nor negative,No,No,No,No
+527,young,minority,liberal,progressive,R_em9YeDcRMDztyRL,Independent,Neither positive nor negative,No,No,No,Yes
+528,NONE,NONE,NONE,NONE,R_4Uyvpo8G3r6rPfv,Independent,Neither positive nor negative,No,No,No,No
+529,hard,NONE,NONE,NONE,R_0SXyT8u6N45VlIN,Republican,A little negative,No,Yes,No,No
+530,radical,liberal,NONE,NONE,R_cP8E2vDjTyzpbwx,Republican,A little negative,Yes,No,No,No
+531,welfare,dumb,gullible,narrow minded,R_bBg96iFuY79sHB3,Republican,Very negative,Yes,Yes,Yes,No
+532,liberal,hippie,crunchy,granola,R_ePcXyfsm4NyQ8gl,Republican,A little negative,No,No,No,No
+533,liberal,tax,gay,abortion,R_cTiC5GSOY2aYmDH,Republican,A little negative,Yes,No,Yes,Yes
+534,woman,taxes,war,health,R_4YhV67tdITjcY0l,Republican,A little negative,No,No,Yes,Yes
+535,liberal,confrontational,misguided,intolerant,R_6l0EVDPZXKApEEJ,Republican,Very negative,Yes,Yes,No,No
+536,firm,racist,assertive,loud,R_9M3MyQ2Zw5D5Oex,Republican,Very negative,Yes,Yes,No,No
+537,left,liberal,progressive,fair,R_8A4BSMcsHofyJcV,Independent,A little positive,No,No,No,No
+538,young,poor,egalitarian,inexperienced,R_8HyDn0l7UgPV7Lf,Republican,A little negative,No,No,No,Yes
+539,NONE,NONE,NONE,NONE,R_a2yTfcJgzVVNoXz,Independent,Neither positive nor negative,No,No,No,No
+540,fair,open-minded,people of color,down to earth,R_88oYF95kI3kiFz7,Democrat,A little positive,No,Yes,No,Yes
+541,educated,socially active,politically correct,optimistic,R_3J13gLSEnwFrXNP,Democrat,A little positive,No,No,No,No
+542,good,nice,honest,bring,R_ewIulCaWPgt5v2l,Democrat,Very positive,No,Yes,No,No
+543,educated,open-minded,caring,hopeful,R_6QgIaTuprrvVXqR,Democrat,Very positive,No,Yes,No,No
+544,liberal,working,non working,union,R_7OmqZMur4R7ThQ1,Republican,Neither positive nor negative,No,No,No,Yes
+545,liberal,progressive,multicultural,pro-union,R_2sIdf7I7S0rc8Bf,Independent,A little positive,No,No,Yes,Yes
+546,NONE,NONE,NONE,NONE,R_0W0GDJn18aDgh01,Independent,Neither positive nor negative,No,No,No,No
+547,liberal,middle class,NONE,NONE,R_9RFKRUGhgYHjMj3,Independent,Neither positive nor negative,No,No,No,Yes
+548,liberal,minority,green,progressive,R_ahjiMPIW8WaVxm5,Independent,Neither positive nor negative,No,No,Yes,Yes
+549,liberal,female,minority,NONE,R_0D7WkxunW1EhBt3,Republican,A little negative,No,No,No,Yes
+550,liberal,caring,sharing,thoughtful,R_1LgBSVhQs3L60p7,Democrat,A little positive,No,Yes,No,No
+551,progressive,hippies,liberal,open-minded,R_ahDKrT6l1XJyuEJ,Independent,A little positive,No,Yes,No,No
+552,NONE,NONE,NONE,NONE,R_09gmdpfVf5Ydfdr,Independent,Neither positive nor negative,No,No,No,No
+553,red,left,being fooled,gullible,R_8vpTZFQIBUE7Zkx,Republican,Very negative,Yes,Yes,No,No
+554,liberal,varied,clinton,open-minded,R_8BNuamxK6Dwjmtf,Independent,Neither positive nor negative,No,No,No,No
+555,thin,bold,none,trick,R_a2WHv62bu6JHarb,Republican,A little negative,Yes,No,No,No
+556,phony,hippictis,liars,cheats,R_6naetVUzLPYo5Hn,Republican,Very negative,Yes,Yes,No,No
+557,NONE,NONE,NONE,NONE,R_0lhvuUnQTrbEYbb,Independent,Neither positive nor negative,No,No,No,No
+558,lazy,freeloaders,liberal,gay,R_5nWNFfe30qDE5ZH,Republican,Very negative,Yes,Yes,No,Yes
+559,liberal,lazy,media driven,black,R_6XMwgaClmiNX9qd,Republican,Very negative,Yes,Yes,No,Yes
+560,liberal,minorities,elitist,latinos,R_3Dfq81UTSZ6lvoh,Republican,A little negative,No,No,No,Yes
+561,liberal,obnoxious,NONE,NONE,R_03tVzmDU3E0XUfb,Republican,Very negative,Yes,Yes,No,No
+562,NONE,NONE,NONE,NONE,R_5h9qC8sisQpjl6R,Independent,Neither,No,No,No,No
+563,NONE,NONE,NONE,NONE,R_8IXUygaV2943p4h,Independent,Neither,No,No,No,No
+564,NONE,NONE,NONE,NONE,R_cMxVS1ps20vQEgB,Independent,Neither positive nor negative,No,No,No,No
+565,NONE,NONE,NONE,NONE,R_5BDWn8KzO9eCBlX,Independent,Neither,No,No,No,No
+566,serdtgf,NONE,NONE,NONE,R_08ouQEb81BCY4dv,Independent,Neither positive nor negative,No,No,No,No
+567,liberal,lazy,uninformed,weak,R_9Ks1mPJEB9ar61T,Republican,Very negative,Yes,Yes,No,No
+568,NONE,NONE,NONE,NONE,R_5pUngzpI1rdAp6d,Independent,Neither positive nor negative,No,No,No,No
+569,smart,realistic,passionate,truth,R_bCP1n9wnK26fXVj,Democrat,A little positive,No,Yes,No,No
+570,liberal,idealistic,impractical,minority,R_aVpaf64xJu0w4Pb,Republican,A little negative,No,No,No,Yes
+571,confused,greedy,self important,enslavers,R_dhWKND9xagC2f7T,Republican,Very negative,Yes,Yes,No,No
+572,middle class,diverse,families,sensible,R_eOJG686ajPASt4p,Independent,A little positive,No,No,No,Yes
+573,liberal,socialist,dreamers,lazy,R_0wagqKsq5B7kkYJ,Republican,Very negative,Yes,No,Yes,No
+574,lazy,freeloaders,welfare,free,R_88MaMQazpzLpkHP,Republican,Very negative,Yes,Yes,Yes,No
+575,NONE,NONE,NONE,NONE,R_egrYDelWxwIq6hf,Independent,Neither positive nor negative,No,No,No,No
+576,average,na,na,na,R_a62sSb4LqsyXKkt,Independent,Neither positive nor negative,No,No,No,No
+577,liberal,fairer,understanding,diversified,R_0fHPW2I99LLyk9T,Democrat,A little positive,No,Yes,No,No
+578,NONE,NONE,NONE,NONE,R_7WfefHYARPS3793,Independent,Neither positive nor negative,No,No,No,No
+579,for the people,for the working class,chaotic,NONE,R_0kdBYeeEmPgZRuB,Republican,A little negative,No,No,No,Yes
+580,liberal,closed minded,socialist,antagonistic,R_bvCEIqmEWjj8EIt,Republican,Very negative,Yes,Yes,Yes,No
+581,poor,liberal,uneducated,hardworking,R_7V5jJLOS4IpJQVL,Republican,A little negative,No,Yes,No,No
+582,none,NONE,NONE,NONE,R_6mmUBCihk5O2CRn,Republican,Very negative,Yes,No,No,No
+583,dumb,NONE,NONE,NONE,R_bDB9xnuanTzSQ5f,Republican,Very negative,Yes,Yes,No,No
+584,don't know,NONE,NONE,NONE,R_0JayU7o7M7y4LS5,Independent,Neither positive nor negative,No,No,No,No
+585,welfare,labor unions,liberals,social programs,R_55T8ItOVbx6rXoh,Independent,Neither positive nor negative,No,No,Yes,Yes
+586,workers,union,liberal,poor,R_cAZWSkiCxXps8El,Independent,Neither positive nor negative,No,No,Yes,Yes
+587,NONE,NONE,NONE,NONE,R_87mU7Bcjh4Iz1zf,Independent,Neither positive nor negative,No,No,No,No
+588,NONE,NONE,NONE,NONE,R_5tJuy7BM7YNWTxr,Independent,Neither,No,No,No,No
+589,liberal,environmentalist,fair,social,R_5zoH9HWr16zPLSd,Independent,A little positive,No,No,Yes,No
+590,dumb,liberal,wrong,ignorant,R_0AlwjhmfYCc5RhH,Republican,Very negative,Yes,Yes,No,No
+591,?,?,?,?,R_bf7lLv6zWsx6Ga1,Independent,Neither positive nor negative,No,No,No,No
+592,NONE,NONE,NONE,NONE,R_abIInTGwwsTkY97,Independent,Neither positive nor negative,No,No,No,No
+593,liberal,entitlements,health care,higher taxes for rich,R_0IciVS4yFQGPpGt,Republican,Neither positive nor negative,No,No,Yes,No
+594,liberal,working class,fair,NONE,R_0Dmwk2SBy8JGYsZ,Independent,A little positive,No,No,No,Yes
+595,minorities,white,young,women,R_3mhsFLXDJP0hGcd,Independent,Neither positive nor negative,No,No,No,Yes
+596,liberal,sheep,forceful,biased,R_bj6YnQ3t2B1ucQJ,Republican,Very negative,Yes,Yes,No,No
+597,NONE,NONE,NONE,NONE,R_ddwXogkswftGbYx,Independent,Neither positive nor negative,No,No,No,No
+598,NONE,NONE,NONE,NONE,R_6VRCwtPM8jmsyIB,Independent,Neither positive nor negative,No,No,No,No
+599,money,0.99,power,NONE,R_8Ci3onMgrNWzsfX,Republican,Very negative,Yes,No,No,No
+600,democrat,urban,older,conservative,R_cTSJsqPeVtI9Cfz,Republican,Neither positive nor negative,No,No,No,Yes
+601,middle,money,halfway,question,R_4Uh89lf4U2eDF5P,Independent,Neither positive nor negative,No,No,No,No
+602,NONE,NONE,NONE,NONE,R_e5S9ioSyAXrKFVz,Independent,Neither positive nor negative,No,No,No,No
+603,understanding,compassionate,liberal,smart,R_bCokhYGjAPHJBel,Democrat,A little positive,No,Yes,No,No
+604,liberal,open,spenders,socialist,R_d6V7d03wPG0Iad7,Republican,Very negative,Yes,No,Yes,No
+605,NONE,NONE,NONE,NONE,R_2oi3hOC1PURhE3j,Independent,Neither positive nor negative,No,No,No,No
+606,liberal,NONE,NONE,NONE,R_ea1YzEycaGdacap,Independent,Neither positive nor negative,No,No,No,No
+607,NONE,NONE,NONE,NONE,R_6zioosC7L8yXjrn,Independent,Neither positive nor negative,No,No,No,No
+608,,NONE,NONE,NONE,R_8IGT1oymJC0irWd,Independent,Neither positive nor negative,No,No,No,No
+609,working class,union members,gov't workers,blue collar,R_5vdrSz5gKluHBD7,Independent,Neither positive nor negative,No,No,No,Yes
+610,educated higher income,NONE,NONE,NONE,R_dbbKBCR5zlVQEu1,Independent,Neither positive nor negative,No,No,No,Yes
+611,labor,intellectuals,hi tech professionals,smart people,R_6xRmQmQ5DhQo6jz,Independent,A little positive,No,No,No,Yes
+612,NONE,NONE,NONE,NONE,R_9XD9ppJMZJVSYRL,Independent,Neither positive nor negative,No,No,No,No
+613,liberal,NONE,NONE,NONE,R_4OT8nSgNICSjo2h,Independent,Neither positive nor negative,No,No,No,No
+614,NONE,NONE,NONE,NONE,R_9QB3FrJEtMyhpWJ,Independent,Neither positive nor negative,No,No,No,No
+615,loyal,uninformed,clueless,dependent,R_088ofZ5GPU71Y9L,Republican,Very negative,Yes,Yes,No,No
+616,NONE,NONE,NONE,NONE,R_dgLmt3VYtpteCKV,Independent,Neither positive nor negative,No,No,No,No
+617,liberal,dependent,idealist,unrealistic,R_eA8s2SHIquinto9,Republican,Very negative,No,Yes,No,No
+618,middle class,poor,blacks,women,R_5dvNcwOxtTlU7Nb,Republican,Neither positive nor negative,No,No,No,Yes
+619,conscientious,thoughtful,forward thinking,open-minded,R_1CllS3vB3ibv3LW,Democrat,A little positive,No,Yes,No,No
+620,sleazy,neurotic,weak,socialist,R_1ilNc0NLRhmH4Uw,Republican,Very negative,Yes,Yes,Yes,No
+621,interested,smart,kind,happy,R_3n9si6nQlNJsHYZ,Democrat,A little positive,No,Yes,No,No
+622,aspirational,hopeful,inspiring,active,R_1EXKVO4eIbnVRVr,Democrat,A little positive,No,Yes,No,No
+623,kind,equality,positive,good,R_8GgW8RogpOD0U8h,Democrat,Very positive,No,Yes,No,No
+624,liberal,progressive,social rights,activist,R_2B4BogJ03fyG54E,Independent,A little positive,No,No,Yes,No
+625,rich,conservative,right wing,traditional,R_1nVMcwASAT8yIZ7,Republican,A little negative,No,No,No,No
+626,liberal,spenders,modern,willful,R_1DRL6HY6jPzrRlN,Republican,A little negative,No,Yes,Yes,No
+627,diverse,liberal,progressive,thoughtful,R_210wbFWSb39xOtl,Independent,A little positive,No,No,No,Yes
+628,smart,informed,correct,right,R_3KGv5ti1g4tftoD,Democrat,Very positive,No,No,No,No
+629,idealist,expensive,tolerant,progress,R_2WIHlwbFq3K1Ugf,Independent,A little positive,No,Yes,Yes,No
+630,liberal,war,education,obama care,R_AhRwtQnnxxpo0bT,Republican,Neither positive nor negative,No,No,Yes,No
+631,left,zealots,fantasy land,anti america,R_3fkHasWrTx9fVkW,Republican,Very negative,Yes,Yes,No,No
+632,stupid,poor,middle class,caring,R_2U5FFaG82CYyLFB,Republican,A little negative,No,Yes,No,Yes
+633,caring,young,equality,poor,R_1N3nSfN95oRVCcZ,Democrat,A little positive,No,No,Yes,Yes
+634,educated,generous,progressive,social,R_332tLzSgsNQVpgT,Democrat,A little positive,No,No,No,Yes
+635,liberal,social,fair,equal,R_Om7MzdKjPZNrYeB,Democrat,A little positive,No,No,Yes,No
+636,moral,considerate,altruistic,worker,R_3HMugACOPMdA4pc,Democrat,Very positive,No,Yes,No,No
+637,liberal,socialist,poor,black,R_1CHEiKNCmPSCMe5,Republican,Very negative,Yes,No,Yes,Yes
+638,weird,normal,crazy,fair,R_3noPbL3HSMCgA1K,Independent,A little negative,No,Yes,No,No
+639,liberal,new,forward,open,R_3oLctTlNLXC8fWE,Independent,A little positive,No,No,No,No
+640,liberal,educated,minority,equal right,R_cPkBB7tiLVuDlvP,Independent,A little positive,No,No,Yes,Yes
+641,open-minded,equality,educated,liberal,R_DeFOLy8c67aUudP,Democrat,A little positive,No,Yes,No,No
+642,liberal,progressive,socially conscious,environmentally friendly,R_3kBexP95szDKtDw,Independent,A little positive,No,No,Yes,No
+643,poor,minority,environmentalist,student,R_O0yJxib13q1Dotj,Republican,Neither positive nor negative,No,No,Yes,Yes
+644,open-minded,liberal,accepting,free,R_21G1SGITNgCUnb2,Democrat,A little positive,No,Yes,No,No
+645,liberal,progressive,compassionate,friendly,R_RQEdNpbzZUeyIRX,Democrat,A little positive,No,No,No,No
+646,giving,equality,tolerant,smart,R_cHZuU1UNpAFpUqt,Democrat,A little positive,No,Yes,No,No
+647,liberal,tolerant,educated,compassionate,R_3NxiTvByxaao0as,Democrat,A little positive,No,Yes,No,No
+648,liberal,educated,caring,environmentalist,R_2wFdG2pGlVU2JJS,Independent,A little positive,No,No,Yes,No
+649,caring,kind,supportive,tolerant,R_2TRW1qhG21U80qO,Democrat,Very positive,No,Yes,No,No
+650,liberal,numerous,government,politics,R_26gOGPo3Yylp8r7,Republican,Neither positive nor negative,No,No,Yes,No
+651,liberal,free,handout,needy,R_vVJC1eqwoRGCYmZ,Republican,Very negative,Yes,No,Yes,No
+652,progressive,northern,welfare,liberal,R_YVy9277Nq0dP409,Republican,Neither positive nor negative,No,No,Yes,Yes
+653,smart,informed,intelligent,liberal,R_1QtMgpyzWjr6klA,Democrat,Very positive,No,Yes,No,No
+654,smart,opinionated,educated,respectful,R_27y7qKtJVoAScZy,Democrat,A little positive,No,Yes,No,No
+655,untrustworthy,sneaky,unjust,immoral,R_2cd3GwFc6vXHdk9,Republican,Very negative,Yes,Yes,No,No
+656,helpful,caring,smart,rational,R_vwdzLyAvdmUVeut,Democrat,A little positive,No,Yes,No,No
+657,young,progressive,student,poor,R_2t36wWQ47ECHsp1,Independent,Neither positive nor negative,No,No,No,Yes
+658,supported by government,great society,socialism,take from the rich and give to the poor,R_3kBUBXYufFZQbxr,Republican,Very negative,Yes,No,Yes,No
+659,cheap,underdog,poor,welfare,R_2pYMGgxKjlwKT85,Republican,Very negative,Yes,No,Yes,Yes
+660,soft,concerned,poor,struggling,R_2ti02wpgP3eztr8,Republican,A little negative,No,No,No,Yes
+661,non traditional,impractical,hostile,intolerant,R_UDXfKw7HgWBpW6J,Republican,Very negative,Yes,Yes,No,No
+662,environmentalist,politically correct,liberal,accepting,R_3JIW3K1yFyb12Lk,Independent,A little positive,No,No,Yes,No
+663,liberal,outspoken,fearless,confident,R_1gdoVCVF0wOExfR,Independent,A little positive,No,Yes,No,No
+664,liberal,working class,caring,educated,R_cMIk1moyamDujMB,Democrat,A little positive,No,Yes,No,Yes
+665,liberal,free,giving,flexible,R_2f34cLmCjryl1fZ,Democrat,A little positive,No,Yes,No,No
+666,liberal,socialist,communist,free loader,R_3k1BKxpFIbCSr3v,Republican,Very negative,Yes,No,Yes,No
+667,shrill,liberal,feminist,harridan,R_cOTJyuKyaNLgPE5,Republican,Very negative,Yes,Yes,No,Yes
+668,liberal,sinful,loud,corrupt,R_ZyqVuTEQyRkOmTn,Republican,Very negative,Yes,Yes,No,No
+669,liberal,progressive,blue,middle class,R_2vcgA3j7RVLZADO,Independent,Neither positive nor negative,No,No,No,Yes
+670,liberal,earth friendly,gay,expensive,R_1DoG5jSkVf2rgYG,Republican,A little negative,No,No,Yes,Yes
+671,socialism,unfair,diversity,sensitive,R_2WHJ927riVY7UXg,Republican,A little negative,No,Yes,Yes,Yes
+672,logical,intelligent,humanist,open-minded,R_1IMKfhqGtXVsRkA,Democrat,Very positive,No,Yes,No,No
+673,intelligent,thoughtful,caring,giving,R_2SDCdDNtgmCAexy,Democrat,Very positive,No,Yes,No,No
+674,liberal,weak,dependent,nonreligious,R_2DTbyZpNY8OprIO,Republican,Very negative,Yes,Yes,No,No
+675,working class,loyal,gullible,hopeful,R_3NwgzmEINBzQOq3,Republican,A little negative,No,Yes,No,No
+676,liberal,progressive,young,diverse,R_25FocLBBFdHXbT3,Independent,A little positive,No,No,No,No
+677,liberal,silly,communist,socialist,R_2SBsIm6CNDUriyC,Republican,Very negative,Yes,Yes,Yes,No
+678,liberal,african american,big government,socialist,R_2RWCv7LazOHKORY,Republican,A little negative,Yes,No,Yes,Yes
+679,liberal,welfare recipient,progressive,socialist,R_2pJraVpPPtXwb3O,Republican,Very negative,Yes,No,Yes,Yes
+680,socialist,middle class,minorities,underprivileged,R_3Ojh4C0Ov3UymB0,Republican,Neither positive nor negative,No,No,No,Yes
+681,lazy,angry,evil,corrupt,R_2yggGKzK604ABvl,Republican,Very negative,Yes,Yes,No,No
+682,liberal,open-minded,tolerant,egalitarian,R_1QKuBTiaYyIt4sG,Independent,A little positive,No,Yes,No,No
+683,young,smart,hopeful,diverse,R_z6XyeNxKoro7YD7,Democrat,A little positive,No,Yes,No,Yes
+684,liberal,fair,helpful,dedicated,R_25vwzfnwgTEcxiL,Democrat,A little positive,No,Yes,No,No
+685,liberal,agreeable,peaceful,young,R_27jJEtz25JCtl38,Independent,A little positive,No,No,No,No
+686,poor,uneducated,minority,victims,R_2pLAEMWBgwPq8Sy,Republican,Very negative,Yes,No,No,Yes
+687,liberal,far left,socialists,hippies,R_12g3Hl3GKYgX15e,Republican,Very negative,Yes,No,Yes,Yes
+688,political,leftist,opinionated,curious,R_1lazlUTpKdoye1P,Independent,Neither positive nor negative,No,Yes,No,No
+689,smart,frustrated,decent,blue collar,R_31vdrXLNneVmblF,Independent,A little positive,No,Yes,No,Yes
+690,giving,smart,outgoing,caring,R_pxWDHDsbSrnI6Hv,Democrat,Very positive,No,Yes,No,No
+691,ignorant,lying,self centered,intelligent,R_1hZ4NtoBnW4QpsV,Republican,Very negative,Yes,Yes,No,No
+692,young,political,concerned,equality,R_2xM08aJjjtTsIVd,Independent,Neither positive nor negative,No,No,Yes,No
+693,progressive,open-minded,non judgmental,compassionate,R_2YX3tJ1weHd893J,Democrat,Very positive,No,Yes,No,No
+694,forward thinking,open-minded,friendly,hard workers,R_Y3PIcm1pRYi3uzn,Democrat,Very positive,No,Yes,No,No
+695,liberal,open,progressive,leftie,R_30jUdBnmvVNoTni,Independent,Neither positive nor negative,No,No,No,No
+696,fun,outgoing,reliable,smart,R_XANDExOPkZupsc1,Democrat,Very positive,No,Yes,No,No
+697,working,stable,normal,happy,R_3soeSMPUkgTVHb7,Democrat,Very positive,No,No,No,No
+698,poor,hard working,smart,protective,R_REUSey2f7ybHejD,Independent,A little positive,No,Yes,No,No
+699,slightly liberal,winning,NONE,NONE,R_QmPJ5akrOaYhOPT,Independent,Neither positive nor negative,No,No,No,No
+700,help,equal rights,more tax,for people,R_3iF6ldf66FrcTal,Independent,Neither positive nor negative,No,No,Yes,No
+701,colored,young,poor,perky,R_9yLZdnnOLfxWm3v,Republican,A little negative,No,No,No,Yes
+702,educated,curious,non conformist,compassionate,R_2rTwv9nv3E4Dl3z,Democrat,A little positive,No,Yes,No,No
+703,liberal,big government,raise taxes,raise minimum wage,R_2XbrXSsQxgXvTSt,Republican,A little negative,No,No,Yes,No
+704,fat,selfish,self serving,abortionists,R_3hzMnkSYIIxfv3i,Republican,Very negative,Yes,Yes,Yes,Yes
+705,equal,fair,passionate,compassionate,R_3NED5yDxPUZALmu,Democrat,Very positive,No,Yes,No,No
+706,hypocrites,humorless,destructive,low information,R_3MhA8Yga7hjhaeo,Republican,Very negative,Yes,Yes,No,No
+707,liberal,caring,honest,supportive,R_2VdyRoqh7KK9iSK,Democrat,A little positive,No,Yes,No,No
+708,liberal,progressive,equality,women's rights,R_sNfvKIOVMTRcc6t,Independent,A little positive,No,No,Yes,No
+709,liberals,extraverts,vocal,social,R_2z7ONeG0s98sPAX,Independent,Neither positive nor negative,No,Yes,No,No
+710,secular,fair,environmental minded,logical,R_3hmXJWVSTfSVTG1,Independent,A little positive,No,No,Yes,No
+711,liberal,crazy,hypocrites,un american,R_10SoWhEUzUTReDt,Republican,Very negative,Yes,Yes,No,No
+712,intelligent,progressive,understanding,team,R_2fs3Z0KSSXgKcNC,Democrat,Very positive,No,Yes,No,No
+713,liberal,peaceful,progressive,proactive,R_3hbZLROIp6fa6pq,Democrat,A little positive,No,No,Yes,No
+714,unimportant,untruthful,self absorbed,wrong,R_2atYixn6I4Johaf,Republican,Very negative,Yes,Yes,No,No
+715,logical,good,for the working man,elaborate,R_9Y7VElYcaHYfyut,Democrat,A little positive,No,Yes,No,Yes
+716,judgmental,green,liar,left,R_RtwBUrXQIHLmM6Z,Republican,Very negative,Yes,Yes,No,No
+717,generous,kind,intelligent,thoughtful,R_1rdZdjIyAvZ10qj,Democrat,Very positive,No,Yes,No,No
+718,just,democratic,fair,progress,R_oXlRn7M6LAh4Qud,Independent,A little positive,No,No,No,No
+719,caring,compassionate,fair,honest,R_3fwUia6PdbymcYG,Democrat,Very positive,No,Yes,No,No
+720,liberal,pro-union,pro-choice,pro-aca,R_1mkgjQbA3GJc9NI,Independent,Neither positive nor negative,No,No,Yes,No
+721,liberal,hippie,socialist,left,R_3fCsaqar6jXI0rn,Republican,A little negative,Yes,No,Yes,No
+722,caring,empathetic,intelligent,visionary,R_bjSFMBBc1fjQSTT,Democrat,Very positive,No,Yes,No,No
+723,socialist,welfare,equal,NONE,R_3g01Yp6JlWq6iou,Republican,A little negative,Yes,No,Yes,No
+724,liberal,socialist,liar,abortion,R_22LLze5oJyODvZt,Republican,Very negative,Yes,Yes,Yes,No
+725,communists,marxists,socialists,traitors,R_9pBhThqbLDums9z,Republican,Very negative,Yes,No,Yes,No
+726,free,hippie,liberal,open,R_0rLziZcrkcmD1tv,Republican,A little negative,No,Yes,No,No
+727,popular,equitable,equal,modern,R_22WWSkmMM0l56yS,Democrat,Very positive,No,No,No,No
+728,liberal,hippies,caring,concerned,R_z39fYjpw7dvw1Ox,Independent,A little positive,No,Yes,No,Yes
+729,open-minded,liberal,young,supportive,R_ePP2vWVVaIxy4rT,Independent,A little positive,No,No,No,No
+730,young,liberal,open,new,R_26gT97OJfxEvVnW,Independent,A little positive,No,No,No,No
+731,liberal,open-minded,activists,working class,R_3m2xNapriCHALCI,Democrat,A little positive,No,Yes,No,No
+732,intelligent,altruistic,educated,caring,R_3pf12cn375O080t,Democrat,Very positive,No,Yes,No,No
+733,liberal,tolerant,workers,women,R_1GBroujFw9zyQSt,Independent,A little positive,No,Yes,No,Yes
+734,poor,educated,informed,well adjusted,R_3FVfHH53rXNRA5o,Democrat,A little positive,No,Yes,No,No
+735,different,misinformed,ignorant,impractical,R_5arE7kxaaekDWYp,Republican,Very negative,Yes,No,No,No
+736,liberal,gay,teachers,welfare recipients,R_2YWZcCbHBPP0tjc,Republican,A little negative,No,No,Yes,Yes
+737,open,thoughtful,caring,progressive,R_1eLZMrnFESr1KOI,Democrat,A little positive,No,Yes,No,No
+738,poor,stubborn,silly,creative,R_2Sr8YI8FPJ1doxl,Republican,A little negative,No,Yes,No,No
+739,intolerance,misguided,sincere,mistaken,R_1rdXFxC0Ks1HOAf,Republican,A little negative,No,Yes,No,No
+740,poor,angry,irresponsible,paranoid,R_3kbud4NWArzsYDD,Republican,Very negative,Yes,Yes,No,No
+741,welfare support of poor,equal rights,pro-abortion,liberals,R_2RahL0MO199l2d9,Republican,A little negative,No,No,Yes,No
+742,liberal,warm,weak,mellow,R_3HS9wUdvoKcUCm6,Republican,A little negative,No,Yes,No,No
+743,NONE,NONE,poor,NONE,R_2eb5oeWipSY6JLO,Republican,A little negative,No,No,No,No
+744,liar,snake,charmers,sneaky,R_ykdBGKge2NzYiT7,Republican,Very negative,Yes,Yes,No,No
+745,easy,peaceful,docile,simple,R_1FPXzkTdBacbRyC,Republican,A little negative,No,Yes,No,Yes
+746,liberal,left,politically correct,obama,R_skgGAPOgtwYVy2l,Republican,A little negative,No,No,No,No
+747,liberal,soft,stupid,propagandistic,R_2YhyvoKeckI7v3X,Republican,Very negative,Yes,Yes,No,No
+748,liberal,blue,calm,peaceful,R_AH9cbGTgbnB5AIh,Independent,A little positive,No,Yes,No,No
+749,considerate,tolerant,thoughtful,progressive,R_3DjDr2RPI1demJw,Democrat,A little positive,No,Yes,No,No
+750,reactionary,uninformed,idealistic,unrealistic,R_290rMDDOIijKBbl,Republican,Very negative,No,Yes,No,No
+751,liberal,pc,feminist,intelligent,R_2U4oPwqbgSTLF3w,Democrat,A little positive,No,No,No,Yes
+752,northern,progressive,liberal,open-minded,R_1IEqnnW6xhe4mtX,Democrat,A little positive,No,No,No,Yes
+753,warm,tolerant,thinking,care,R_ZJMXXPbd7Hv9bYl,Democrat,A little positive,No,Yes,No,No
+754,liberal,new york,north east,minorities,R_x414MWrM4HzPLCF,Republican,Neither positive nor negative,No,No,No,Yes
+755,progressive,equal,idealistic,diverse,R_sGXeVebwDM929sB,Democrat,A little positive,No,No,No,Yes
+756,smart,progressive,educated,liberal,R_vZ8yb6BJeKB4gzD,Democrat,A little positive,No,No,No,No
+757,liberal,loud,progressive,hippies,R_Xvqls0pwquT2wnv,Republican,A little negative,No,No,No,Yes
+758,liberal,progressive,inclusive,intelligent,R_2X6Gzg4LNNox0CZ,Democrat,Very positive,No,No,No,No
+759,large government,liberal,change,redistribution,R_2bPGPZbzUegH2js,Republican,Neither positive nor negative,No,No,Yes,No
+760,liberal,educated,middle class,diverse,R_8l9zPd7EZYFufE5,Independent,A little positive,No,No,No,Yes
+761,left,liberal,minority,open,R_1LLGwXesWCeLX89,Independent,Neither positive nor negative,No,No,No,Yes
+762,immoral,less informed,young,intractable,R_290to0uYYkR7O5s,Republican,Very negative,Yes,Yes,No,No
+763,sympathetic,liberal,idealistic,charitable,R_1eWR49nzp7jsCIh,Independent,A little positive,No,Yes,No,No
+764,social,brave,dependable,caring,R_21HxC61V2uEsJD7,Democrat,Very positive,No,Yes,No,No
+765,liberal,socialist,everyone equal,spenders,R_1QnHVmR1TLUmhno,Republican,A little negative,Yes,No,Yes,No
+766,statists,socialists,feminists,racists,R_2V7NkfWkCg8jwRd,Republican,Very negative,Yes,No,Yes,Yes
+767,liberal,pretentious,ignorant,hypocrites,R_2DYToN03XIIpqeK,Republican,Very negative,Yes,Yes,No,No
+768,old,uptight,condemning,rich,R_Xjtl7NitumgCtMJ,Republican,Very negative,Yes,Yes,No,No
+769,progressive,open-minded,fair,kind,R_9ZiwyMOajTkXcNf,Democrat,A little positive,No,Yes,No,No
+770,losers,kids,racists,poor,R_12sUZH0CDgJINpZ,Republican,Very negative,Yes,Yes,No,Yes
+771,liberal,bleeding heart,socialist,leftist,R_2wFaKBbTWdcytic,Republican,Very negative,Yes,No,Yes,No
+772,young,idealistic,supporting,equality,R_6rR6Zu0K5qR1dsx,Independent,A little positive,No,No,No,No
+773,liar,wrong,immoral,despicable,R_2VxwF7LPJ9taiNy,Republican,Very negative,Yes,Yes,No,No
+774,selfish,hand out,generational,non religious,R_2Vdushecv1vb407,Republican,Very negative,Yes,Yes,Yes,No
+775,educated,progressive,caring,intelligent,R_33ptwEI6XxIF6XU,Democrat,Very positive,No,Yes,No,No
+776,crazy,liberal,union labor,black,R_1E5si7nr9iIRPIy,Republican,Very negative,Yes,Yes,Yes,Yes
+777,idealistic,communist,impractical,caring,R_1HkRtzhBJlMXfAZ,Republican,A little negative,Yes,No,Yes,No
+778,liberal,bold,majority,reckless,R_1hWsNb7M9IPFuOZ,Republican,Very negative,Yes,Yes,No,No
+779,weak,like government control,high taxes,liar,R_0ooqDSqghoGkUlL,Republican,Very negative,Yes,Yes,Yes,No
+780,cheaters,liars,conniving,damaging,R_2WuwkmG97BWGFIZ,Republican,Very negative,Yes,Yes,No,No
+781,liberal,weak,government,taxes,R_2BljwoiOd6Fv8sl,Republican,Very negative,No,Yes,Yes,No
+782,liberal,progressive,independent,openminded,R_24kEl6Bkob7v4lq,Independent,A little positive,No,No,No,No
+783,thoughtful,openminded,empathetic,intelligent,R_1I4PfSNWRhsIFCV,Democrat,Very positive,No,Yes,No,No
+784,open,caring,loving,kind,R_u3S1ovTn6UHusJX,Democrat,Very positive,No,Yes,No,No
+785,blue,education,liberal,politics,R_1ladAtViEdR3dFO,Independent,Neither positive nor negative,No,No,No,No
+786,not smart,not out of box thinking,dumb,narrow minded,R_5coTUJhV4qWKeQh,Republican,Very negative,Yes,Yes,No,No
+787,young,liberal,entitled,whiny,R_XMpNdVFJqTAeQaB,Republican,Very negative,Yes,Yes,No,Yes
+788,liberal,progressive,educated,nonreligious,R_3Dhi4mirPe3x4gz,Independent,A little positive,No,No,No,No
+789,liberal,critical,progressive,diverse,R_55cET8XmcEsYg5f,Independent,A little positive,No,No,No,Yes
+790,liberal,progressive,activist,bleeding heart,R_bE0vvMsI5VAwMBX,Republican,A little negative,No,Yes,No,No
+791,women,liberal,open,obama,R_SJZ2qcI0NKZbbtD,Independent,Neither positive nor negative,No,No,No,Yes
+792,liberal,socialist,weak,lazy,R_O36nDi6CNklj2s9,Republican,Very negative,Yes,Yes,Yes,No
+793,liberal,socialist,greedy,liars,R_OroCIOn4wN9tCdb,Republican,Very negative,Yes,Yes,Yes,No
+794,compassionate,hard working,humble,intelligent,R_3QYjIpjivEaEvIZ,Democrat,Very positive,No,Yes,No,No
+795,blind,sheep,death,fake,R_3hAVY2N2AqCCgSs,Republican,Very negative,Yes,Yes,No,No
+796,young,working class,poor,liberal,R_272r5l2KADKgTUp,Independent,Neither positive nor negative,No,No,No,Yes
+797,arrogant,smug,delusional,unrealistic,R_1eIFkc6C88txjdl,Republican,Very negative,Yes,Yes,No,No
+798,liberals,blacks,women,politician,R_3rFWIehzvBGuVcY,Republican,Neither,No,No,No,Yes
+799,liberal,educated,minority,young,R_2DM2jAo7JvhnwMx,Independent,Neither positive nor negative,No,No,No,Yes
+800,liberal,narrow minded,whiney,unfocused,R_31hoR3CxwjnmQ6r,Republican,Very negative,Yes,Yes,No,No
+801,liberal,jerks,pushy,money,R_3pf17yxkygS8f3c,Republican,Very negative,Yes,Yes,No,No
+802,liberal,entitled,young,women,R_1CCOX8IQ5J2I9h8,Republican,A little negative,No,No,No,Yes
+803,liberal,minorities,poor,east coast,R_3sAmzLepClV9E9Q,Republican,Neither positive nor negative,No,No,No,Yes
+804,liberal,minorities,underprivileged,lazy,R_3OdjlaZ48Xazmm8,Republican,Very negative,Yes,Yes,No,Yes
+805,thinkers,freedom,positive,socialist,R_2QWYGyDZ9Vgw7Fp,Independent,A little positive,No,No,Yes,No
+806,younger,diverse,radical,pro-choice,R_33BXfOgORURwLoH,Republican,A little negative,Yes,No,Yes,Yes
+807,greed,dis honest,dis loyal,dis respectful,R_1DCNeSemIsskO0W,Republican,Very negative,Yes,Yes,No,No
+808,controlling,social liberty,less military support,big government,R_1KjLJpAS9fpo5Mx,Republican,A little negative,No,No,Yes,No
+809,educated,liberal,independent,feminist,R_3nPFmekKrvrScLE,Independent,A little positive,No,No,No,Yes
+810,taxes,reform,change,equality,R_1gnWxSKOsplYOm4,Democrat,A little positive,No,No,Yes,No
+811,honest,truth,believe,confident,R_1EjjLYroxsR5qTp,Democrat,A little positive,No,Yes,No,No
+812,black,warriors,survivors,struggle,R_1ri8DYigNx1WSDW,Independent,A little positive,No,Yes,No,Yes
+813,loyal,calm,understanding,pliable,R_0Ti8MpZRQw8MIpj,Independent,A little positive,No,Yes,No,No
+814,important,hispanic,majority,interest,R_1QN2HJ8ITrxOhzR,Republican,Neither positive nor negative,No,No,No,Yes
+815,liberal,progressive,minority,majority,R_240BqVCdQQj5r3O,Independent,Neither positive nor negative,No,No,No,Yes
+816,liberal,compassionate,informed,intelligent,R_1LiJTLVmbjs5GZr,Democrat,Very positive,No,Yes,No,No
+817,progressive,libertarian,open-minded,peaceful,R_2qeKNW5kF6ZeXO4,Independent,Very positive,No,Yes,No,No
+818,minorities,liberal,blacks,lower income,R_3oHgOEsi2ih5ZLj,Republican,Neither positive nor negative,No,No,No,Yes
+819,smart,compassionate,logical,liberal,R_8APnqSCnlvJaChX,Democrat,A little positive,No,Yes,No,No
+820,honest,hardworking,caring,responsible,R_1Klt9BLSCGsvsps,Democrat,Very positive,No,Yes,No,No
+821,wise,free,co operative,honest,R_2TTPufEec0fdvXH,Democrat,Very positive,No,Yes,No,No
+822,intelligent,caring,fair,smart,R_1n18XbRb80ahZNU,Democrat,Very positive,No,Yes,No,No
+823,clinton,sanders,not trump,red,R_31MWIleVElCilax,Republican,A little negative,No,No,No,No
+824,uninformed,biased,kkk,slavery,R_OPZEcUG4XqTznJT,Republican,Very negative,Yes,Yes,No,Yes
+825,liberal,honest,poorer,realistic,R_1pYf58vIlTFwf6a,Independent,Neither positive nor negative,No,Yes,No,No
+826,inclusive,progressive,supportive,nonjudgmental,R_3k0rBekgQ2kNnBP,Democrat,A little positive,No,No,No,No
+827,liberal,minorities,youth,northerners,R_1OGMG0MkdusmrO6,Independent,Neither positive nor negative,No,No,No,Yes
+828,loving,naive,emotional,good,R_Ow085Y67jw4bQqd,Independent,A little positive,No,Yes,No,No
+829,liberal,young,smart,open-minded,R_3KoqWgnBRBEsQY6,Democrat,Very positive,No,Yes,No,No
+830,concerned,caring,hard working,honest,R_3P61XEH6bn4JNfW,Democrat,Very positive,No,Yes,No,No
+831,young,hippie,normal,hopeful,R_d1flzZv9a1uyCcR,Independent,A little positive,No,No,No,Yes
+832,younger,liberal,warmer,highly educated,R_330V8EG61SWip3K,Independent,A little positive,No,No,No,No
+833,caring,needy,poor,working,R_yDV9VkGLji1GXvz,Republican,A little negative,No,Yes,No,No
+834,open-minded,enthusiastic,hopeful,honest,R_1rHSdM0WduV0rDD,Democrat,Very positive,No,Yes,No,No
+835,liberal,hippies,socialist,poor,R_3JIN2hljxgGIvjg,Republican,Very negative,Yes,No,Yes,Yes
+836,liberal,selfish,immoral,unkind,R_3PFDyMHyjjipsK5,Republican,Very negative,Yes,Yes,No,No
+837,dreamers,hopeful,empathetic,smart,R_eLNFKW7jwBTJPeV,Democrat,Very positive,No,Yes,No,No
+838,intelligent,liberal,progressive,peaceful,R_1g5yz2Rb1N9jGEl,Democrat,Very positive,No,No,Yes,No
+839,caring,honest,hardworking,women,R_stFfMMZI7XRHijn,Democrat,Very positive,No,Yes,No,Yes
+840,liberal,soft,spend happy,agenda,R_2PoHN11dyXV7D4C,Republican,A little negative,No,No,Yes,No
+841,liberal,progressive,taxes,freedom,R_sRp8BLf2HOGTbvX,Republican,Neither positive nor negative,No,No,Yes,No
+842,liberal,kind,generous,calm,R_31nQmaRXziyhgXk,Democrat,A little positive,No,Yes,No,No
+843,active,happy,confident,considered,R_2xPmpAaifFjpk8g,Independent,A little positive,No,Yes,No,No
+844,left winged,liberal,progressive,equal,R_25LUjp2xnAf23SZ,Independent,Neither positive nor negative,No,No,Yes,No
+845,economist,serious,old,young,R_10ZVwyHOa4muoZ4,Independent,Neither positive nor negative,No,No,No,Yes
+846,middle class,african americans,latinos,under privilege,R_Thc0qXxk9tmx0hX,Independent,Neither positive nor negative,No,No,No,Yes
+847,forward,smart,inclusive,open,R_1JWKkXdm4NQDlrC,Democrat,A little positive,No,No,No,No
+848,smart,caring,peaceful,accepting,R_1CJ8hDJvYh6iR49,Democrat,Very positive,No,Yes,No,No
+849,young,educated,sheltered,angry,R_3Cvizd48GtRrdw5,Republican,Very negative,Yes,Yes,No,No
+850,lazy,dumb,insidious,entitled,R_QbPfHEAOFiTmscV,Republican,Very negative,Yes,Yes,No,No
+851,headstrong,stuck up,close-minded,old fashioned,R_3nTr7NgjfKvYpex,Republican,Very negative,Yes,Yes,No,No
+852,minority,liberal,young,female,R_1LegnlHDDfF7okK,Independent,Neither positive nor negative,No,No,No,Yes
+853,jackasses,clowns,idiots,fools,R_1jdkTE3usmMVPBd,Republican,Very negative,Yes,Yes,No,No
+854,robust,liberal,open,leader,R_xzQtqUVn7Jwqs8x,Independent,A little positive,No,No,No,No
+855,liberal,free,change,new,R_1C1GN5KGtP9qgCP,Independent,A little positive,No,No,No,No
+856,liberal,generous,handouts,modern,R_3G7lD2tGxMtYX0i,Republican,A little negative,No,No,Yes,No
+857,liberal,educated,smart,fair,R_2ckNBGUXt6szvAo,Democrat,A little positive,No,Yes,No,No
+858,rich,hardheaded,ignorant,slaves,R_3JJkFtbB8ZOcckH,Republican,Very negative,Yes,Yes,No,Yes
+859,liberal,open-minded,educated,concerned,R_2wh2eRfBdldXOW0,Democrat,A little positive,No,Yes,No,No
+860,smart,loyal,honest,political,R_3lAepLa0igQMGSh,Democrat,A little positive,No,Yes,No,No
+861,liberal,wishy washy,do gooder,potential,R_3qPulL1wAHU9onq,Republican,A little negative,No,Yes,No,No
+862,pompous,liberals,fake,liars,R_2qC1Nzke9xIimG8,Republican,Very negative,Yes,Yes,No,No
+863,liberal,normal,regular,donkey,R_1Qgb0EQXOoIZAOd,Independent,Neither positive nor negative,No,No,No,No
+864,liberal,reasonable,futuristic,aim to please,R_Bzz5jmWLmQKhlBL,Independent,A little positive,No,No,No,No
+865,fair,honest,integrity,political,R_2xKSqno43seHYyO,Independent,A little positive,No,Yes,No,No
+866,progressive,liberal,socialist,modern,R_1DvfAysH2ayJeXA,Republican,Neither positive nor negative,No,No,Yes,No
+867,donkey,pleasure seeking,hypocritical,racist,R_usPazB9MGGV9arn,Republican,Very negative,Yes,Yes,No,No
+868,compassionate,passionate,right,just,R_1pt9CoWSOyITU6L,Democrat,Very positive,No,Yes,No,No
+869,liberal,loose,immoral,hippie,R_40fTkcZyNj6nHtn,Republican,Very negative,Yes,Yes,No,No
+870,women,liberal,educated,minorities,R_3gYnKht22Mxjcpy,Independent,Neither positive nor negative,No,No,No,Yes
+871,arrogant,short sided,liberal,misinformed,R_2U9mItizEz1TeDB,Republican,Very negative,Yes,Yes,No,No
+872,liberal,middle class,fair,working,R_24P2isOPbZo6WeZ,Independent,A little positive,No,No,No,No
+873,liberal,idealistic,naive,young,R_1EduAI0gRBJcaLo,Republican,A little negative,No,Yes,No,No
+874,educated,minorities,moderate,hopeful,R_3P6MXigGycStffX,Independent,A little positive,No,No,No,Yes
+875,liberal,open,safe,typical,R_3koGEi0blorRxy1,Independent,A little positive,No,Yes,No,No
+876,liberals,anti gunners,lgbt crowd,intolerant people,R_C7GlP5Qtd023xx7,Republican,Very negative,Yes,Yes,Yes,Yes
+877,calm,cool,collective,new,R_Tjt0fnZ5gGjL5hD,Independent,A little positive,No,Yes,No,No
+878,pro-choice,taxes,abortion,clinton,R_29nZ9d4xRZUAa5m,Republican,A little negative,No,No,Yes,No
+879,naive,equality,innocent,young,R_1FezxwDXp1HEtl0,Independent,Neither positive nor negative,No,Yes,No,No
+880,liberal,left,urban,young,R_3rPyEAYWcOq8KdE,Independent,Neither positive nor negative,No,No,No,Yes
+881,naive,over simplistic,condescending,smug,R_20OmsGQrwZBhgIP,Republican,Very negative,Yes,Yes,No,No
+882,genuine,intelligent,eager,dedicated,R_1hQBBrZfqg9Pqbb,Democrat,Very positive,No,Yes,No,No
+883,hippies,annoying,lame,silly,R_12A1dJ65cWNEJN0,Republican,Very negative,Yes,Yes,No,Yes
+884,progressive,thoughtful,inclusive,informed,R_2SDKfdBu3XpkegF,Democrat,Very positive,No,No,No,No
+885,liberal,accepting,environmental,educated,R_2wGZbk47lK1gW3S,Independent,A little positive,No,No,Yes,No
+886,liberal,feminist,environmentalist,socialist,R_3qUljm4D0NbwwYu,Republican,Neither positive nor negative,No,No,Yes,Yes
+887,liberal,sissy,babies,whiny,R_SOC5HDLHAH1040h,Republican,Very negative,Yes,Yes,No,No
+888,liberal,trustworthy,fair,active,R_2Yoo4bHNOBBk5Eg,Democrat,Very positive,No,Yes,No,No
+889,open-minded,liberal,socially responsible,active,R_DpK0r6tBVokoDLj,Independent,A little positive,No,No,Yes,No
+890,tolerant,listeners,compromisers,peaceful,R_3s1yfedQQxPH9N1,Democrat,A little positive,No,Yes,No,No
+891,liberal,environmentally conscious,pro-abortion,tax hikers,R_dor5zUDIlw3eMrr,Republican,A little negative,No,No,Yes,No
+892,liberal,granola,pc,open,R_1OxIRD7jxv6VM2f,Republican,A little negative,No,No,No,No
+893,liberal,evil,corrupt,union,R_1IcpomP2Wemygv1,Republican,Very negative,Yes,Yes,No,Yes
+894,liberal,equality,spending,rights,R_8odDE40HIy8fB61,Independent,Neither positive nor negative,No,No,Yes,No
+895,middle class,lower class,poor,welfare,R_1FnxLXYQOZW88gf,Republican,Very negative,Yes,No,Yes,Yes
+896,poor,uneducated,needy,unemployed,R_2ZPsIVNLCMKjiiF,Republican,Very negative,Yes,No,No,No
+897,humanistic,liberal,socialistic,charitable,R_21tYZ3DCcBV7CGu,Independent,A little positive,No,No,Yes,No
+898,hip,cool,low key,hip,R_3GwZ2Dm7tjQmd6H,Democrat,A little positive,No,Yes,No,No
+899,liberal,younger,open-minded,supportive,R_3dFUluzMd0EApbd,Independent,A little positive,No,Yes,No,No
+900,strong,smart,useful,helpful,R_21AGXOvRbU3Kyy7,Democrat,Very positive,No,Yes,No,No
+901,liberal,female,white,young,R_1F5tz7aAOzepemM,Independent,Neither positive nor negative,No,No,No,Yes
+902,liberal,free spirited,altruistic,feminist,R_w4vrMMbNuoP7vbP,Independent,A little positive,No,Yes,No,Yes
+903,educated,concerned,human,peaceful,R_2w781fGZersAfNL,Democrat,Very positive,No,Yes,No,No
+904,liberal,gun legislation,independent,balance,R_1IT2rPSpFDdRMO8,Independent,Neither,No,No,Yes,No
+905,liberal,grassroots,socialist,charity,R_3w9DKVfVXxYsuIN,Republican,Neither positive nor negative,No,No,Yes,No
+906,liberals,middle class,working class,young people,R_2v2Cc9esyvMDWti,Independent,Neither positive nor negative,No,No,No,Yes
+907,liberal,socialist,emotional,irrational,R_1n0zAhhfh2REWCf,Republican,Very negative,Yes,Yes,Yes,No
+908,poor,liberal,workers,government,R_yqLf3tPGJxNsHOV,Republican,A little negative,No,No,Yes,Yes
+909,liberal,childish,immature,naive,R_2zcqqMQqJcnSMD0,Republican,Very negative,Yes,Yes,No,No
+910,poor,uneducated,liberal,unemployed,R_BPLYBrJqG85xAkx,Republican,Very negative,Yes,No,No,No
+911,liberal,open,progressive,equity,R_1OwpmhDVcnQtBNf,Independent,A little positive,No,No,No,No
+912,liberal,tolerant,trusting,evolved,R_XtsX3Y4CghHGo2R,Democrat,Very positive,No,Yes,No,No
+913,liberal,selfish,socialistic,pc,R_2313NfVuXXTkE9U,Republican,Very negative,Yes,Yes,Yes,No
+914,caring,supportive,helpful,compassionate,R_ZsGPAQ1LPNKQWJz,Democrat,Very positive,No,Yes,No,No
+915,greedy,dishonest,stubborn,hard hearted,R_2uQcxO0pvzDJoMt,Republican,Very negative,Yes,Yes,No,No
+916,fair,kind,socially conscious,smart,R_4JjNWhIDZqbWwed,Democrat,Very positive,No,Yes,No,No
+917,progressive,diverse,domestic,conscience,R_2dyzrav9lgSTetl,Independent,A little positive,No,Yes,No,No
+918,progressive,dominant,for the people,intelligent,R_2AEwNa7whpbJ2W5,Democrat,A little positive,No,Yes,No,No
+919,loyal,liberal,freedom,honest,R_2xYuIE0FIEr58Yz,Democrat,Very positive,No,Yes,No,No
+920,liberal,progressive,educated,middle class,R_tMQVJ2EQjKOo53z,Independent,A little positive,No,No,No,Yes
+921,idiot,dumb,whiner,weak,R_2D6MLa90NYYuIzh,Republican,Very negative,Yes,Yes,No,No
+922,smart,compassionate,open-minded,pragmatic,R_2Ehr6v2solU3gwk,Democrat,Very positive,No,Yes,No,No
+923,anti white,anti american,coddle criminals,sympathetic to terrorists,R_2YxkjzKCYNoFiwD,Republican,Very negative,Yes,No,Yes,Yes
+924,jackass,stoic,hillary,lacking,R_3iwKPHNzZ8QVTPj,Republican,Very negative,Yes,Yes,No,No
+925,liberal,social programs,hillary clinton,spenders,R_3h3LhZI6wBvx2BP,Republican,A little negative,No,No,Yes,No
+926,hypocritical,misguided,idealist,irrational,R_1LGWMynTrs3JuW9,Republican,Very negative,Yes,Yes,No,No
+927,poor,students,young,idealistic,R_1pyyyw70o1gDuAZ,Republican,Neither positive nor negative,No,No,No,Yes
+928,cool,hip,smart,collected,R_1OqrLAm0HVk0Tme,Democrat,A little positive,No,Yes,No,No
+929,liberal,peaceful,equality,naive,R_54KGglH5nqe5Vbb,Republican,A little negative,No,Yes,No,No
+930,liberal,caring,moderate,activist,R_2wKuGJrIIgAGFv8,Independent,A little positive,No,No,No,No
+931,agreeable,reasonable,understanding,cooperative,R_XjQPpEkASotizVT,Democrat,A little positive,No,Yes,No,No
+932,egotistical,braggarts,dishonest,confident,R_1qW1Fnk627a6RB2,Republican,Very negative,Yes,Yes,No,No
+933,cool,calm,responsible,intelligent,R_211bk0RntWHoFBA,Democrat,Very positive,No,Yes,No,No
+934,liberal,open-minded,giving,humanitarian,R_3dJJHETnGbm4Tna,Democrat,Very positive,No,Yes,No,No
+935,radical,non religious,murderers,lazy,R_1r0kY7HLzRjVrcB,Republican,Very negative,Yes,Yes,No,No
+936,self righteous,liberal,annoying,misguided,R_2e3V1TBATO2RXhb,Republican,Very negative,Yes,Yes,No,No
+937,progressive,liberal,caring,modern,R_238DqvAOuUpajt3,Democrat,Very positive,No,No,No,No
+938,lean socialist,liberal,pro-abortion,pro-gay marriage,R_3KC5rzoZFwtwxn4,Republican,A little negative,No,No,Yes,Yes
+939,liberal,taker,unintelligent,environmentalist,R_3fvEfyAeItL92SQ,Republican,Very negative,Yes,No,Yes,No
+940,liberal,bleeding heart,socialism,"""black lives matter""",R_2CUipW5JPIDkVgR,Republican,Very negative,Yes,No,Yes,Yes
+941,liberal,diverse,honest,hardworking,R_3p5tBUFkOVsitO6,Democrat,A little positive,No,Yes,No,No
+942,young,smart,idealistic,goal oriented,R_11bUZGa8VyjcR7a,Independent,A little positive,No,Yes,No,No
+943,tolerant,open-minded,kind,hard working,R_1QzLDD83c1haNSd,Democrat,Very positive,No,Yes,No,No
+944,liberal,progressive,urban,diverse,R_7PXAYZ54E98IWe5,Independent,Neither positive nor negative,No,No,No,No
+945,introverts,pushovers,nosey,giving,R_2PApSiRiJKUrXwN,Republican,A little negative,No,Yes,No,No
+946,donkey,abortion,crazy,insane,R_2OUf8GfyvhtVaYg,Republican,Very negative,Yes,Yes,Yes,Yes
+947,informed,non judgmental,helpful,democratic,R_1owliOuKnNnAP5I,Democrat,A little positive,No,Yes,No,No
+948,controlling,regulate,bossy,immature,R_2PuKvw47qPsAWrO,Republican,Very negative,Yes,Yes,Yes,No
+949,liberal,forward thinking,giving,loving,R_2zkjtuXJWCHoLJy,Democrat,A little positive,No,Yes,No,No
+950,weak,naive,dependent,spendthrift,R_2zCpIeEwIadrE2V,Republican,Very negative,Yes,Yes,Yes,No
+951,rich,entitled,unemployed,white,R_27vZ7qjMyNAbP1e,Republican,Very negative,Yes,Yes,No,Yes
+952,open-minded,smart,educated,informed,R_QibhI5J5OUCzHm9,Democrat,Very positive,No,Yes,No,No
+953,liberal,easy going,representative,pro-choice,R_080EZUbpj196Q49,Independent,A little positive,No,No,Yes,No
+954,leftist,black people,rich whites,union,R_1NsIWAExgPsQg0X,Republican,A little negative,No,No,No,Yes
+955,liberal,caring,thoughtful,progressive,R_2aykOJDlVjo1e2e,Democrat,Very positive,No,Yes,No,No
+956,liberal,social oriented,progressive,tolerant,R_bpdOcTRWNdnkI4V,Independent,A little positive,No,No,No,No
+957,strong,radical,powerful,current,R_5tCmA2W1eofvdlf,Independent,A little positive,No,No,No,No
+958,liberal,pro-choice,socialist,fair,R_2zuvIZxuu0cSoZl,Republican,Neither positive nor negative,Yes,No,Yes,No
+959,open-minded,liberal,caring,considerate,R_3CNRk6cO14IIW6S,Democrat,A little positive,No,Yes,No,No
+960,liberal,flighty,annoying,weak,R_3RryCGUhqzx6HsG,Republican,Very negative,Yes,Yes,No,No
+961,okay,successful,liberal,happy,R_3JlujXwG2knJfPc,Democrat,A little positive,No,Yes,No,No
+962,poor,lower class,equality,welfare,R_2rTlP2JrAxZfjuN,Republican,A little negative,No,No,Yes,Yes
+963,stubborn,old,mean,wrong,R_2TNvXNb64bm2o0F,Republican,Very negative,Yes,Yes,No,No
+964,black,people,white,usa,R_OHcX7jweiHpkWm5,Republican,Neither positive nor negative,No,No,No,Yes
+965,stupid,ignorant,sheeple,immoral,R_0IAikYTUb6yFtsZ,Republican,Very negative,Yes,Yes,No,No
+966,liberal,wild,care free,rebel,R_27vv9bqeGFXABQY,Independent,A little negative,No,Yes,No,No
+967,liberal,open,american,honest,R_1Aqzaz5WTVZbMD7,Independent,A little positive,No,Yes,No,No
+968,liberal,immigrants,socialism,shit,R_3mkpDxWhHo7SkXF,Republican,Very negative,Yes,No,Yes,Yes
+969,kind,loving,open-minded,friendly,R_3CJh0LJ9UO0WzB2,Democrat,Very positive,No,Yes,No,No
+970,liberal,prochoice,clever,rational,R_10ufbjHp6hervcJ,Democrat,A little positive,No,Yes,Yes,No
+971,real,friend,everyone,happy,R_2SDGtmR9rO1JhMe,Democrat,Very positive,No,Yes,No,No
+972,liberal,hippie,open-minded,poor,R_2o7Pn0YObORvbKF,Republican,A little negative,Yes,No,No,No
+973,caring,liberal,open-minded,educated,R_3ekpROlbWQaUvB1,Democrat,Very positive,No,Yes,No,No
+974,liberal,black,hispanic,urban,R_3ReYnx69IgEzPIJ,Republican,A little negative,No,No,No,Yes
+975,hard workers,open,liberal,compassionate,R_331oACwvBdZqzxp,Democrat,A little positive,No,Yes,No,No
+976,progressive,liberal,empathic,caring,R_33xtAubZsYFktas,Democrat,A little positive,No,Yes,No,No
+977,liberal,free,union,modern,R_2aLBqpspHsYk5c0,Independent,Neither,No,No,No,No
+978,liberal,intelligent,family oriented,middle class,R_2rGFSnA0v1Woo0k,Independent,A little positive,No,Yes,No,Yes
+979,liberal,outspoken,opinionated,passionate,R_ZKmakNi5mofARfb,Independent,A little positive,No,Yes,No,No
+980,misinformed,liberal,passive,impractical,R_Rqw5RqQug94RTwZ,Republican,Very negative,Yes,Yes,No,No
+981,arrogant,thoughtful,elitist,brainwashed,R_psIPtwqmLWQ3P7H,Republican,Very negative,Yes,Yes,No,No
+982,progressive,young,generous,educated,R_2QytgtOwRJ8SNCh,Democrat,A little positive,No,No,No,No
+983,liberal,obama,clinton,young,R_2Vgvfa1V9LOaxcP,Independent,Neither positive nor negative,No,No,No,No
+984,liberal,free spending,environmentalists,pro-choice,R_3O2NjO0yXfdV1o7,Republican,Neither positive nor negative,No,No,Yes,Yes
+985,sloppy,kind,artistic,liberal,R_1f7U7wQNYNcMMfb,Independent,A little positive,No,Yes,No,No
+986,stupid,dishonest,liars,unrealistic,R_3Jw5sh6xvcjAGWu,Republican,Very negative,Yes,Yes,No,No
+987,emotional,passionate,bleeding heart,well intentioned,R_1n75DJ0EhkBWNHz,Independent,A little positive,No,Yes,No,No
+988,liberal,progressive,environmentalist,sane,R_273tHH2nt3uBFw5,Democrat,A little positive,No,No,Yes,No
+989,caring,liberal,socialist,people oriented,R_2DN5FiAaY1E70uB,Independent,A little positive,No,Yes,Yes,No
+990,family,honest,rational,successful,R_32J9RjoPVcsIySs,Democrat,Very positive,No,Yes,No,No
+991,fair,caring,legalization,donkey,R_30oXHzgWQtzox1V,Independent,Neither positive nor negative,No,Yes,Yes,No
+992,socially liberal,strict gun policy,health care supporters,environmentally conscious,R_2U5z3e1IxQ7OCvO,Independent,A little positive,No,No,Yes,No
+993,liberal,petitioners,hippies,forward,R_vAGvRzRFRK2hQVr,Republican,Neither positive nor negative,No,No,No,Yes
+994,liberal,big government,social welfare,middle class,R_pJz30AbqTtyFxMR,Republican,Neither positive nor negative,No,No,Yes,Yes
+995,progressive,equality minded,giving,intelligent,R_OC2wGC90fdMo0Vz,Democrat,Very positive,No,Yes,No,No
+996,uneducated,lazy,liberal,pro-choice,R_2qmTT7qfPyZf518,Republican,Very negative,Yes,Yes,Yes,No
+997,decent,honest,progressive,kind,R_p618A6fogLbgOKl,Democrat,Very positive,No,Yes,No,No
+998,moochers,liberal,uninformed,welfare clients,R_2VR4W3fkR6Ok2XL,Republican,Very negative,Yes,Yes,Yes,Yes
+999,snobby,compassionate,liberal,intelligent,R_2BA4FoZiORxNFVa,Independent,A little positive,No,Yes,No,No
+1000,unrealistic,optimists,caring,open,R_2AZSnKXd0E0fXIm,Independent,A little positive,No,Yes,No,No
+1001,liberal,open,adaptable,flexible,R_3KJjHmfH1OixvcG,Independent,A little positive,No,Yes,No,No
+1002,human,voters,obama,opposite,R_22squZZpgKT9zAI,Republican,Neither positive nor negative,No,No,No,Yes
+1003,liberal,socialist,idealistic,lavish,R_1o6Yh4sRz2CR9VW,Republican,A little negative,No,No,Yes,No
+1004,progressive,liberal,tolerant,open-minded,R_1i98PXJp5tjWNGp,Democrat,A little positive,No,Yes,No,No
+1005,left,liberal,minority,urban,R_1hS7AAS10OyO5fI,Republican,Neither positive nor negative,No,No,No,Yes
+1006,intelligent,open,progressive,unconventional,R_2vjC4SNGIbvbLco,Democrat,A little positive,No,Yes,No,No
+1007,liberal,younger,socialist,progressive,R_Zk3EPinVwxpPTWh,Republican,A little negative,Yes,No,Yes,No
+1008,liberal,progressive,educated,accepting,R_bCKIOengzo7bGbD,Democrat,A little positive,No,No,No,No
+1009,poor,worker,union,women,R_3rHSsxYgpVu8Lzv,Independent,Neither,No,No,Yes,Yes
+1010,liberal,loud,opinionated,loose tongued,R_1F2kXNBuxI0y2JR,Republican,Very negative,Yes,Yes,No,No
+1011,liberal,open,optimistic,family,R_2zvjjtUN2DZnlbh,Democrat,A little positive,No,Yes,No,No
+1012,liberal,prochoice,pro-gay marriage,socialists,R_3houlG9hdhkKGZm,Republican,A little negative,Yes,No,Yes,Yes
+1013,liberals,females,youngsters,socialists,R_r0Adip4y17jrauJ,Republican,A little negative,No,No,No,Yes
+1014,selfless,caring,equal,balanced,R_pE3xYJKGwHyi5JD,Democrat,Very positive,No,Yes,No,No
+1015,liberal,honest,openminded,strong,R_e2RVDSJ8TAW18qx,Democrat,A little positive,No,Yes,No,No
+1016,poor,diverse,uneducated,unmotivated,R_2wQWiN1c1OEAMHw,Republican,Very negative,Yes,No,No,Yes
+1017,liberal,flaky,unrealistic,working class,R_3GdNRLYWM23Dl29,Republican,A little negative,No,Yes,No,Yes
+1018,generous,collective,group,nice,R_12rGILZJRaNzgJ4,Independent,A little positive,No,Yes,No,No
+1019,freedom,assistance,charitable,workers,R_NW8K3hIWkOa05wt,Democrat,A little positive,No,No,Yes,Yes
+1020,poor,liberal,uneducated,opinionated,R_2Pj9LnPFvFYXTlY,Republican,Very negative,Yes,No,No,No
+1021,liberal,young,left,social,R_3nrt27Kk2zTCDap,Independent,Neither positive nor negative,No,No,No,Yes
+1022,educated,minority,coastal,liberal,R_1jxp0UgoH32S8qs,Independent,Neither positive nor negative,No,No,No,Yes
+1023,open-minded,liberal,generous,talkative,R_1LwjODZGlTX53bB,Independent,A little positive,No,Yes,No,No
+1024,progressive,egalitarian,open,caring,R_2EtuQ2kL5pakZrW,Democrat,Very positive,No,No,No,No
+1025,progressive,liberal,leftwing,openminded,R_3JtkJkGX8jPEN4V,Independent,A little positive,No,No,No,No
+1026,liberal,intelligent,generous,thoughtful,R_4GXBZIrQGNpVnoh,Democrat,Very positive,No,Yes,No,No
+1027,hypocrite,coward,misguided,poor,R_3DjvmO36vAakGpn,Republican,Very negative,Yes,Yes,No,No
+1028,uninformed,ignorant,dismissing,social,R_2SiDLxpu3C8fynS,Republican,Very negative,Yes,Yes,No,Yes
+1029,broke,whiney,crybaby,donkey,R_yKfCVlTIrNgeLux,Republican,Very negative,Yes,Yes,No,No
+1030,honest,fair,balanced,equal,R_1mKtzeMrhHpluaQ,Democrat,Very positive,No,Yes,No,No
+1031,left,liberal,open-minded,laid back,R_2AR63LFGyhf3XqO,Independent,A little positive,No,Yes,No,No
+1032,debt,education,race,diversity,R_1lbrLmv1KLFjIy9,Independent,Neither positive nor negative,No,No,Yes,Yes
+1033,naive,bully,hypocritical,ignorant,R_21yTPsAyjMpPJvM,Republican,Very negative,Yes,Yes,No,No
+1034,liars,dishonest,hypocrites,naive,R_1FfHJTjhqv05Y10,Republican,Very negative,Yes,Yes,No,No
+1035,middle class,poor,liberal,atheist,R_9Qzq8rW9GEYpYL7,Republican,Neither positive nor negative,No,No,No,Yes
+1036,spenders,unintelligent,demeaning,cold,R_3ldMyGewOoYe1Lr,Republican,Very negative,Yes,Yes,No,No
+1037,liars,wrong,socialists,losers,R_1EZrqEyjXQrHMDC,Republican,Very negative,Yes,Yes,Yes,No
+1038,liberal,northern,adaptive,open-minded,R_u9OBFPoPZ0YLXGN,Independent,A little positive,No,Yes,No,No
+1039,liberal,open,caring,giving,R_Rnuhtk2WlJ0LhN7,Democrat,Very positive,No,Yes,No,No
+1040,liberal,intelligent,non biased,compassionate,R_3E9XXMMwzPxQHyY,Democrat,Very positive,No,Yes,No,No
+1041,forward thinking,liberal,powerful,rational,R_eEYlbSZBBUdjOY9,Democrat,A little positive,No,Yes,No,No
+1042,progressive,liberal,social,kind,R_3lyv7EphwGLeqxW,Democrat,A little positive,No,Yes,No,No
+1043,open,hardworking,real,normal,R_rpQ2WBEbQj5Paq5,Democrat,A little positive,No,Yes,No,No
+1044,younger,liberal,sharing,environment,R_3Orjj4VkmQLnKi3,Independent,Neither positive nor negative,No,No,No,No
+1045,liberal,lazy,pro-choice,environmentalist,R_3mm0xhRKXi0A5NL,Republican,A little negative,No,Yes,Yes,No
+1046,progressive,open-minded,nice,helpful,R_2OGx3xFza8QUR23,Democrat,Very positive,No,Yes,No,No
+1047,liberal,anti gun,pro-choice,socialist,R_3mavRQC4IKfSALf,Republican,A little negative,Yes,No,Yes,No
+1048,rich,white,busybody,hypocrite,R_2Cy6TEwU3wRSI99,Republican,Very negative,Yes,Yes,No,Yes
+1049,educated,compassionate,intelligent,caring,R_zVETPi8GbwkIA4F,Democrat,Very positive,No,Yes,No,No
+1050,liberal,ethnic,poor,government,R_1GUM5XEUe7Cbxld,Republican,A little negative,No,No,Yes,Yes
+1051,liberal,pro-abortion,atheist,educated,R_3lDEDEdnErDHzg6,Republican,A little negative,No,No,Yes,Yes
+1052,liberals,unemployed,minorities,impoverished,R_2cnCvapjrYmdOdJ,Republican,Very negative,Yes,No,No,Yes
+1053,loving,kind,caring,oppressed,R_2tgLR842AdFxFk4,Democrat,Very positive,No,Yes,No,No
+1054,open-minded,accepting,inclusive,respectful,R_3M3j9BsFXiz2Yzw,Democrat,Very positive,No,Yes,No,No
+1055,liberal,taxes,hypocrites,uninformed,R_ROXF458NBzOuW7D,Republican,Very negative,Yes,Yes,Yes,No
+1056,liberal,government centric,entitlements,causes,R_ehw2b3YyxvRcM9j,Republican,A little negative,No,No,Yes,No
+1057,liberal,hippie,pot,welfare,R_cIr12td65A4Xb8d,Republican,Very negative,Yes,No,Yes,No
+1058,greedy,noncaring,unfocused,stupid,R_6olAj58sgWckY6d,Republican,Very negative,Yes,Yes,No,No
+1059,liberal,young,smart,socially conscious,R_3lJRGwvKjsBLyNs,Democrat,A little positive,No,Yes,No,No
+1060,equal opportunity,liberal,poor,minorities,R_2Vfkbm1WoSAMpAi,Independent,Neither positive nor negative,No,No,No,Yes
+1061,liberal,open,progressive,communists,R_3LjRyY6OR6tye0G,Republican,Very negative,Yes,No,Yes,No
+1062,progressive,liberal,intelligent,inclusive,R_vAcEf7pCtqgBvcl,Democrat,Very positive,No,No,No,No
+1063,caring,just,patriotic,virtuous,R_20NbpDT2l0UW0o3,Democrat,Very positive,No,Yes,No,No
+1064,liberal,concerned,honest,caring,R_ywQLIyyMaDAMxLb,Democrat,Very positive,No,Yes,No,No
+1065,liberal,caring,feeling,reactionary,R_3J90xLJKBwqYABs,Independent,Neither positive nor negative,No,Yes,No,No
+1066,lazy,uneducated,black,welfare,R_ZksuWZreAO9h2TL,Republican,Very negative,Yes,No,No,Yes
+1067,young,progressive,rude,poor,R_bKrNax08CFaShVj,Republican,Very negative,Yes,Yes,No,Yes
+1068,liberal,soft,emotional,warm,R_1hEWmV3joLyVh9D,Independent,A little positive,No,Yes,No,No
+1069,liberal,american,voter,citizen,R_06NLAnzOAsBibkd,Independent,Neither positive nor negative,No,No,No,No
+1070,liberal,conscientious,supportive,intelligent,R_6Mzzn9epHMW0hlX,Democrat,Very positive,No,Yes,No,No
+1071,liberal,open,supportive,people,R_1gTlFhiUtOoHVt3,Independent,A little positive,No,No,No,No
+1072,liberal,presidential,smart,elegant,R_3LZuW7H6tep6rIO,Democrat,A little positive,No,Yes,No,No
+1073,liberal,intelligent,educated,compassionate,R_3JwNTF1lIhnGXtv,Democrat,Very positive,No,Yes,No,No
+1074,liberal,radical,pro-gay,pro-abortion,R_3efMNAcZ8mlyMPk,Republican,A little negative,Yes,No,Yes,Yes
+1075,loving,caring,sharing,nice,R_1qa1IDk6cvCPAsE,Democrat,Very positive,No,Yes,No,No
+1076,smart,fair,educated,nice,R_a3tPPgFRtZ75ued,Democrat,Very positive,No,Yes,No,No
+1077,open,liberal,compassionate,equalizing,R_suK8CPUwfP6PF29,Democrat,A little positive,No,Yes,No,No
+1078,liberal,tree hugger,environment,share the wealth,R_AdGyiYfKQz7DvB7,Republican,A little negative,No,No,Yes,No
+1079,gullible,meek,weak,idealistic,R_1jv0a0I3WhbT5jZ,Republican,Very negative,Yes,Yes,No,No
+1080,human,concerned,patriotic,liberal,R_1q8uU8OJRoNiDao,Independent,A little positive,No,Yes,No,No
+1081,liberal,progressive,forward thinking,optimistic,R_2BfXrgDdRQYSsJt,Democrat,A little positive,No,No,No,No
+1082,poor,minority,unemployed,women,R_Drfpf4xzkBTBT1f,Republican,A little negative,Yes,No,No,Yes
+1083,liberal,helpful,aide,poor,R_2R9fKAl1049ctXM,Independent,A little positive,No,Yes,No,Yes
+1084,conservative,traditional,uptight,closed off,R_1hz07QjMK2zwqAi,Republican,Very negative,No,Yes,No,No
+1085,liberal,giveaway,misguided,wrong,R_25MaPy2DivP6YV6,Republican,Very negative,Yes,No,Yes,No
+1086,liberal,self righteous,arrogant,social justice,R_5dQ0LqXu9MqH07n,Republican,Very negative,Yes,Yes,No,No
+1087,liberal,young,unpatriotic,gullible,R_3yHyiO9uurDwhPz,Republican,Very negative,Yes,No,No,No
+1088,diverse,middle class,intelligent,caring,R_3O1Fqngwx9FAkV4,Democrat,Very positive,No,Yes,No,Yes
+1089,liberal,accepting,young,naive,R_2tGnX99iOHvYYmS,Republican,A little negative,Yes,Yes,No,No
+1090,liberal,non religious,left wing,ignorant,R_3gL2lTBUM2Wcxys,Republican,Very negative,Yes,No,No,No
+1091,liberal,socialist,leftwing,tolerant,R_3j6CWMlPu2BStnr,Independent,Neither,No,No,Yes,No
+1092,caring,about rights,for the people,NONE,R_20NiVuOODcC3bKs,Independent,A little positive,No,Yes,Yes,No
+1093,liberal,minority,flexible,working,R_3oBEWVR7rm5msmx,Independent,A little positive,No,No,No,Yes
+1094,responsible,caring,hard working,blunt,R_1IKSxpMpjmx7Ia5,Independent,A little positive,No,Yes,No,No
+1095,liberal,young,modern,smart,R_1nZ9cAZd4VAIgNr,Democrat,A little positive,No,No,No,Yes
+1096,liberal,atheists,non traditional,obnoxious,R_2wMjSK8UE7YRoYm,Republican,Very negative,Yes,Yes,No,No
+1097,liberal,pro-choice,pro-gay marriage,accepting,R_sqkeDPq2xnA5rPj,Independent,A little positive,No,No,Yes,Yes
+1098,peaceful,kind,knowledgeable,intelligent,R_2Byx8SjSlbQkgJl,Democrat,Very positive,No,Yes,No,No
+1099,young,northerners,intelligent,educated,R_1Qu3zJC9Toaq2Uz,Independent,A little positive,No,No,No,Yes
+1100,pot smokers,looney,socialist,commies,R_3RggNOUF6Lc30wG,Republican,Very negative,Yes,No,Yes,No
+1101,liberal,educated,naive,kind,R_3HOfz0PDtkaq57e,Republican,Neither positive nor negative,No,Yes,No,No
+1102,liberal,generous,fair,righteous,R_2roTjtMqw57GnRW,Democrat,Very positive,No,Yes,No,No
+1103,liberal,open-minded,accepting,humanitarian,R_Zh6w7V7b89QAQx3,Democrat,Very positive,No,Yes,No,No
+1104,temperamental,hypocritical,self righteous,idealistic,R_08IO9j0Spc7xdVD,Republican,Very negative,Yes,Yes,No,No
+1105,liberal,open-minded,educated,fair,R_yqkCJkIb5w8g8Lf,Democrat,Very positive,No,No,No,No
+1106,crazy,loud,aggressive,rich,R_2uVBwIFuGGEJDNy,Republican,Very negative,Yes,Yes,No,No
+1107,younger people,poorer people,liberals,minorities,R_9S25co9PKNj4WqJ,Republican,Neither positive nor negative,No,No,No,Yes
+1108,idiots,misinformed,liberal,educated fools,R_12Fr9Tw4wX6gxPi,Republican,Very negative,Yes,Yes,No,No
+1109,liberal,free with monies,for the poor,NONE,R_32PetObo8Kh5UGb,Republican,A little negative,No,No,Yes,Yes
+1110,uniformed,ideologues,soft,wrong,R_3nj9IvakL5iM9rj,Republican,Very negative,Yes,Yes,No,No
+1111,middle class,trustworthy,open-minded,ethical,R_1Lhe7rEg2SfzWHQ,Democrat,Very positive,No,Yes,No,No
+1112,liberal,progressive,socialistic,forward thinking,R_6zIQGRWc1yAh81X,Independent,A little positive,No,No,Yes,No
+1113,young,liberal,middle class,passionate,R_3m9TU2vp9pJU3K4,Independent,Neither positive nor negative,No,No,No,Yes
+1114,ethnic,homosexual,hippies,liberals,R_bjUPtzAYhaNLeet,Republican,Very negative,Yes,No,No,Yes
+1115,wealthy,poor,union,liberal,R_a99chNT9mcEJL45,Independent,Neither positive nor negative,No,No,No,Yes
+1116,liberal,lefty,progressive,donkey,R_3PhPPsq2ICOQ4G9,Republican,Neither positive nor negative,No,No,No,No
+1117,lazy,liberal,egalitarian,godless,R_2wo6gamiojcK3ig,Republican,Very negative,Yes,Yes,No,No
+1118,friendly,smart,wise,intelligent,R_2rZx7GP3pK9DTY7,Democrat,Very positive,No,Yes,No,No
+1119,senile,crazy,slow,clowns,R_30hFNCJtkDDgR1N,Republican,Very negative,Yes,Yes,No,No
+1120,normal,mediocre,worker,minority,R_bxZX4B1mbHGK937,Republican,A little negative,No,No,No,Yes
+1121,progressive,liberal,open-minded,welcoming,R_vcodnQWq3KWEUgN,Democrat,A little positive,No,No,No,No
+1122,me,enthusiastic,committed,intellectuals,R_WqfH3FVo7Du0Yj7,Democrat,A little positive,No,Yes,No,No
+1123,egocentric,argumentative,uninformed,racist,R_24CPA2lswOap0k0,Republican,Very negative,Yes,Yes,No,No
+1124,liberal,gay,nice,atheist,R_RmcW4L89G9WphdL,Republican,Neither positive nor negative,No,No,No,Yes
+1125,poor,honest,hardworking,poverty,R_smVLx074O2vwWWJ,Independent,Neither positive nor negative,No,Yes,No,No
+1126,considerate,average,relatable,middle management,R_3plNkuoFj2KZOfv,Independent,Neither positive nor negative,No,Yes,No,No
+1127,impractical,naive,demanding,intolerant,R_1OC4EHU3qxqNaLE,Republican,Very negative,Yes,Yes,No,No
+1128,strong,liberal,real,happy,R_3Gj3jh0fzaNgaC0,Democrat,A little positive,No,Yes,No,No
+1129,strong,independent,social,interesting,R_1GZZosAs1ZqonAD,Independent,A little positive,No,Yes,No,No
+1130,liberal,left wing,donkey,socialist,R_325x0dLJgutzBPH,Republican,A little negative,No,No,Yes,No
+1131,open-minded,liberal,diverse,ethical,R_2Qo1iTaI7DZ933W,Democrat,Very positive,No,Yes,No,No
+1132,liberal,honest,caring,worthy,R_tLitFxdMPrIOIcF,Democrat,Very positive,No,Yes,No,No
+1133,liberal,government,welfare,free,R_3Q0pAOgJlRSK2KZ,Republican,A little negative,No,No,Yes,No
+1134,liberal,educated,social minded,fair,R_3HXIwVW32zND7Eb,Democrat,A little positive,No,No,No,No
+1135,empathetic,welcoming,young,worldly,R_2uV9wL3AHvfdYN9,Democrat,A little positive,No,Yes,No,No
+1136,good,kind,smart,relaxed,R_325vg35zOnBX88r,Democrat,Very positive,No,Yes,No,No
+1137,liberal,progressive,urban,sympathetic,R_p5yY6Jt6IFq0Qcp,Independent,A little positive,No,No,No,Yes
+1138,liberal,socialist,hippie,ignorant,R_1pSCJmucDqb1VFQ,Republican,Very negative,Yes,No,Yes,No
+1139,liberal,progressive,united,empowering,R_1mlWkMvAq66p7ks,Democrat,Very positive,No,No,No,No
+1140,clintons,liberal,minorities,unoriginal,R_1hEaugbeXsUC6xl,Republican,A little negative,No,No,No,Yes
+1141,donkey,left wing,liberal,liar,R_290J7ZU9GxPZ6fr,Republican,Very negative,Yes,Yes,No,No
+1142,free loaders,liberal,controlling,intrusive,R_sgRi2RmmECpeWcx,Republican,Very negative,Yes,No,Yes,No
+1143,big government,higher taxes,more liberal,less affluent,R_sKUHpkD874jTrBT,Republican,A little negative,No,No,Yes,No
+1144,blue collar,family,open,compassionate,R_2rBZGgyFidPBTuX,Independent,A little positive,No,Yes,No,No
+1145,questionable,faithful,understanding,helpful,R_3CCppx8zVHqHlvs,Independent,A little positive,No,Yes,No,No
+1146,new,liberal,nice,open-minded,R_UGYlLA9QyE52FZD,Independent,A little positive,No,Yes,No,No
+1147,kind,open-minded,fair,considerate,R_3MJZmtSZKGF4Ogs,Democrat,Very positive,No,Yes,No,No
+1148,thoughtful,caring,consideration,understanding,R_1E0S8X5ROIZVdqm,Democrat,Very positive,No,Yes,No,No
+1149,loyal,faithful,honest,down to earth,R_3fE1ZBGna9xlo3D,Democrat,Very positive,No,Yes,No,No
+1150,untraditional,anti guns,liberal,blue,R_1ifZAryPMyWM88h,Republican,A little negative,No,No,Yes,No
+1151,liberal,change,social,steady,R_ReoQ3cQROE61xLj,Independent,Neither positive nor negative,No,No,No,No
+1152,liberal,supportive,educated,confident,R_9GpPSRFlimGXCzT,Democrat,A little positive,No,No,No,No
+1153,open,liberal,honest,strong,R_29tqBPP4VQsDIgs,Democrat,Very positive,No,Yes,No,No
+1154,open-minded,liberal,free thinkers,unconventional,R_RIWF9qQsWtP6KrL,Independent,A little positive,No,Yes,No,No
+1155,open-minded,liberal,generous,trusting,R_12DoOR1oXVWxhKz,Democrat,A little positive,No,Yes,No,No
+1156,normal,hopeful,misguided,ignorant,R_1cUE8kabjU0XZgs,Republican,A little negative,No,No,No,No
+1157,struggling,low income,hungry,helpful,R_3oTLwbtKOc9me79,Independent,A little negative,No,No,No,Yes
+1158,liberal,union support,global warming,big government,R_9S7BgahPVmNqJmJ,Republican,Neither positive nor negative,No,No,Yes,Yes
+1159,liberal,intolerant,intrusive,progressive,R_1gCj9wLRdOVAULt,Republican,Very negative,Yes,No,Yes,No
+1160,liberal,left winged,supporters of gun control,pro-abortion,R_ebNFkHbASs9IRu9,Republican,Neither positive nor negative,No,No,Yes,No
+1161,jack,xin,anna,jong,R_1eF9jLDryAj7hPw,Independent,Neither positive nor negative,No,No,No,No
+1162,minority,poor,uneducated,colored,R_uaaVH7rp3NShOLL,Republican,Very negative,Yes,No,No,Yes
+1163,caring,family oriented,antiwar,needy,R_3EQNGXXJNmlfd8G,Independent,Neither positive nor negative,No,Yes,Yes,No
+1164,black,thief,challenged,sorry,R_3fpJ84aWkU15tCP,Republican,Very negative,Yes,Yes,No,Yes
+1165,hipster,vegetarian,sensitive,offended,R_a05BkAUxDaJZ1Pb,Republican,Very negative,Yes,Yes,No,Yes
+1166,supportive,open-minded,equality,liberal,R_2wz7KVi6qCgg4VW,Democrat,A little positive,No,Yes,No,No
+1167,liberal,unrealistic,soft,argumentative,R_2wM26MIZDA8SsSy,Republican,Very negative,Yes,Yes,No,No
+1168,liberal,educated,workers,smart,R_3PRAZ7QP43PfRyJ,Democrat,A little positive,No,Yes,No,No
+1169,american,people,normal,anybody,R_3MxngsKdRpau1OO,Independent,Neither positive nor negative,No,No,No,No
+1170,scatterbrain,unloyal,criminal,liar,R_2cvhyJXq5wCXmLf,Republican,Very negative,Yes,Yes,No,No
+1171,illegal residents,lower income people,hispanics,blacks,R_0N6E1DCMcBHP0IN,Republican,Very negative,Yes,No,No,Yes
+1172,misinformed,incompetent,dishonest,arrogant,R_1oIwwaLGx3PYHvi,Republican,Very negative,Yes,Yes,No,No
+1173,middle class,black,poor,liberal,R_2WYHw92bQEPqad0,Republican,Neither positive nor negative,No,No,No,Yes
+1174,nut,feminist,racist,freeloader,R_zYmYxIBEOwZCnwl,Republican,Very negative,Yes,Yes,No,Yes
+1175,obtuse,arrogant,divisive,liberal,R_UGVuuzUFU5huFb3,Republican,Very negative,Yes,Yes,No,No
+1176,laborers,hispanics,blacks,poor,R_31EtmJhPJerOLXg,Republican,Neither positive nor negative,No,No,No,Yes
+1177,open,liberal,young,poor,R_27djwVIcTKAqNVj,Republican,Neither,No,No,No,Yes
+1178,poor,liberal,cheap,black,R_1IAzXDJQL6snOaI,Republican,Very negative,Yes,No,No,Yes
+1179,snide,deceit,dishonest,broken,R_3prqAAuaHHK8Vu6,Republican,Very negative,Yes,Yes,No,No
+1180,liberal,considerate,compassionate,donkey,R_6nDYc5gNlOBvOsd,Independent,A little positive,No,Yes,No,No
+1181,progressive,government,equality,liberal,R_10Ujvve6AGAtKbE,Independent,Neither positive nor negative,No,No,Yes,No
+1182,liberal,equalism,social welfare,labor union,R_1DTLZ9zl57CQ4gq,Independent,Neither positive nor negative,No,No,Yes,Yes
+1183,liberal,socialist,giving,upfront,R_31jx48bDeWyjfSq,Republican,Neither positive nor negative,No,No,Yes,No
+1184,liberal,snooty,self righteous,popular,R_30kl6uwpvEzPAuv,Republican,Very negative,Yes,Yes,No,No
+1185,loud,hippy,free,happy,R_8w7OxqEy0w7pJtj,Independent,A little positive,No,Yes,No,No
+1186,ok,nice,best one,fine,R_Q9NDcH2VtwKqp4B,Independent,A little positive,No,No,No,No
+1187,giving,loving,equal,good,R_2QgpzyiHcgXgez6,Democrat,Very positive,No,Yes,No,No
+1188,young people,liberals,minorities,working class,R_1E1h6v6iMhNZGbD,Independent,Neither positive nor negative,No,No,No,Yes
+1189,caring,liberal,open,giving,R_2xxEcYD8Er8ekMH,Democrat,A little positive,No,Yes,No,No
+1190,wrong,soft,misinformed,misguided,R_AM1mAebxAvX27AZ,Republican,Very negative,Yes,Yes,No,No
+1191,progressive,flexible,compassionate,considerate,R_1GwaZ5MY0nPfi06,Democrat,A little positive,No,Yes,No,No
+1192,liberal,friendly,spread out,diverse,R_3KNgSdv17epDj2H,Independent,A little positive,No,Yes,No,Yes
+1193,liberal,givers,social,eager,R_OsdwndwvWji4T7z,Independent,A little positive,No,No,No,No
+1194,victims,helpless,mentally ill,unintelligent,R_3pnWbdfyXZSprTQ,Republican,Very negative,Yes,Yes,No,No
+1195,liberal,young,idealist,average,R_308heuSQzIUhtji,Independent,Neither positive nor negative,No,No,No,No
+1196,rich,poor,liberal,statist,R_3h0i7XpFHy66xVf,Republican,Neither positive nor negative,No,No,Yes,Yes
+1197,caring,intelligent,liberal,worldly,R_ZmfPPCuX5YDDmz7,Democrat,Very positive,No,Yes,No,No
+1198,kind,liberal,open,aware,R_1exTWxqAv7ISC49,Democrat,Very positive,No,Yes,No,No
+1199,arrogant,self righteous,indignant,lame,R_2s6c2RlDiLaOS2u,Republican,Very negative,Yes,Yes,No,No
+1200,colored,young,fresh,poor,R_2pMCXVWpR6ajHxO,Republican,A little negative,No,No,No,Yes
+1201,smart,liberal,proud,committed,R_2VKJi9TRKTMqdWy,Democrat,A little positive,No,Yes,No,No
+1202,blue,crazy,liberal,left,R_2RX6JGoIlxNyJgf,Republican,Very negative,Yes,No,No,Yes
+1203,liberal,brainwashed,protestors,entrenched,R_vTRfkpYEgQ8LEd3,Republican,Very negative,Yes,No,No,Yes
+1204,socialist,dictators,control,prideful,R_2V4lUTVFhmA6v0L,Republican,Very negative,Yes,Yes,Yes,No
+1205,liberal,socialist,low iq,naive,R_3GlYpkWpLMKPXFU,Republican,Very negative,Yes,Yes,Yes,No
+1206,snobby,uptight,self centered,democrats,R_2pPlv3iDQLsWql7,Republican,Very negative,Yes,Yes,No,No
+1207,progressive,diverse,forward thinking,statist,R_25AcCP1wmrLoqV3,Republican,A little negative,No,No,Yes,No
+1208,soft,calm,progressive,loose,R_Tn3zFLtZ8Y2Er05,Independent,Neither positive nor negative,No,Yes,No,No
+1209,liberal,pro-choice,kind,caring,R_25tR7mV7p4XS4mL,Independent,A little positive,No,Yes,Yes,No
+1210,caring,empathetic,generous,intelligent,R_WCYK9Slh5yDlsQ1,Democrat,Very positive,No,Yes,No,No
+1211,social,educated,caring,environmental,R_VRadnZWtW04bwVr,Independent,A little positive,No,No,Yes,No
+1212,pathetic,ignorant,liberal,low information voters,R_2dxVE1EXzZV3fSF,Republican,Very negative,Yes,Yes,No,No
+1213,liberal,radicals,welfare,free money and services,R_2Sjp8kefXqoAPYM,Republican,Very negative,Yes,No,Yes,No
+1214,intelligent,hard working,thin,healthy,R_3jTpjonbnfOIyiX,Democrat,A little positive,No,Yes,No,No
+1215,poor,middle class,informed,overworked,R_2Pur2wGki0j2BJ4,Independent,Neither positive nor negative,No,No,No,No
+1216,empathic,progressive,inclusive,fair,R_UGVMFafr5xDsEHn,Democrat,A little positive,No,Yes,No,No
+1217,almost as bad as republicans,freedom for bodies,possibly good,hopeful at times,R_1cXF1USfqmMJbzQ,Independent,A little negative,No,No,No,No
+1218,liberal,socialist,anti gun,pro-choice,R_1GOYu8V22paB794,Republican,A little negative,No,No,Yes,No
+1219,minority,poor,young,inexperienced,R_pnLLivueslzPJQd,Republican,A little negative,No,No,No,Yes
+1220,average,scientific,open,concerned,R_2CfGNObfYGkxhoL,Independent,A little positive,No,No,No,No
+1221,violent,oppressive,communistic,welfare,R_3CT60WgULHx6zSR,Republican,Very negative,Yes,No,Yes,No
+1222,silly,stupid,arrogant,lazy,R_3NUulQlqyUw57SG,Republican,Very negative,Yes,Yes,No,No
+1223,poor,open,disenfranchised,jaded,R_3dK6BmOqWMQJLbC,Republican,A little negative,No,No,No,Yes
+1224,weak,clinton,liberal,left,R_2w649rkrXHLMfvw,Republican,A little negative,No,No,No,No
+1225,dumb,young,poor,minorities,R_1FfAiZWM7wZpDt6,Republican,Very negative,Yes,No,No,Yes
+1226,honest,workers,southern,liberal,R_1LnDtQc9HGAQW2O,Independent,A little positive,No,Yes,No,Yes
+1227,liberal,young,poor,women,R_WeZmYAQ8khaVPQR,Republican,A little negative,No,No,No,Yes
+1228,lazy,weird,sheep,uneducated,R_b3eYzDqzU86PJhT,Republican,Very negative,Yes,Yes,No,No
+1229,idealistic,liberal,progressive,entitled,R_2uWkFyHqY4FqPDI,Republican,A little negative,No,Yes,No,No
+1230,smart,educated,hard working,family oriented,R_7WCcbJjrFENORKp,Democrat,A little positive,No,Yes,No,No
+1231,liar,hypocrite,avoidance,self absorbed,R_1ES5xV4AmJLYc93,Republican,Very negative,Yes,Yes,No,No
+1232,obama,hillary,bill,NONE,R_2xVH4KaLke4Rj7H,Republican,Neither positive nor negative,No,No,No,No
+1233,kind,smart,ethical,sensitive,R_2V2NuJ3UrMUGjiP,Democrat,Very positive,No,Yes,No,No
+1234,liberal,modern,environmentalists,feminist,R_2aOYCZcIByfxxqA,Independent,A little positive,No,No,Yes,Yes
+1235,open-minded,generous,liberal,empathetic,R_3CVCCQCthBx4PkU,Democrat,A little positive,No,Yes,No,No
+1236,progressive,liberal,feminist,socialist,R_2t3iVVnyhqJYkiD,Republican,A little negative,Yes,No,Yes,Yes
+1237,right,generous,altruistic,concerned,R_26axrhmS11AtUCu,Democrat,Very positive,No,Yes,No,No
+1238,energetic,helpful,accountable,apologetic,R_2rA8fVXTlibVeMM,Independent,A little positive,No,Yes,No,No
+1239,liberal,green,eco friendly,progressive,R_3WeZEvPNWGlgkyR,Independent,A little positive,No,No,Yes,No
+1240,donkey,people,loyalist,non republican,R_3Oq7L6WlDgOdgKk,Independent,Neither positive nor negative,No,No,No,Yes
+1241,pro-choice,pro-lgbt+,inclusive,liberal,R_ug1qqyIl5AyqL05,Independent,A little positive,No,No,Yes,Yes
+1242,liberal,urban,pro-choice,progressive,R_2OGAhNatah9MFi4,Independent,Neither positive nor negative,No,No,Yes,No
+1243,liberal,young,progressive,taxes,R_8c9AdovcXFyEx1f,Independent,Neither positive nor negative,No,No,Yes,No
+1244,liberal,politically correct,pro-diversity,pro-choice,R_2EvppkjAy0yjpIa,Independent,A little positive,No,No,Yes,Yes
+1245,liberal,accepting,entitled,ridiculous,R_2XbqFHpFuPESk8z,Republican,Very negative,Yes,Yes,No,No
+1246,smart,strong,kind,attentive,R_1rkaqgOZZh3DGha,Democrat,Very positive,No,Yes,No,No
+1247,stubborn,uninformed,limited,naive,R_1jMIL1MpxuchykX,Republican,Very negative,Yes,Yes,No,No
+1248,rich,poor,partisan,saner,R_3fSOoj35Blm8XsO,Independent,Neither positive nor negative,No,No,No,Yes
+1249,liars,corporate,untrustworthy,ineffective,R_27mmbn7oHD3tWWz,Republican,Very negative,Yes,Yes,Yes,No
+1250,liberal,lgbt,blacks,women,R_RRAumANFz8Dwhqh,Republican,Neither positive nor negative,No,No,No,Yes
+1251,liberal,conscientious,community,accepting,R_3itgc1g1SuDSVnj,Independent,A little positive,No,Yes,No,No
+1252,poor,liberal,loud,empathy,R_1myCwNEl4q4Fqk9,Republican,A little negative,No,Yes,No,No
+1253,moderate,genuine,compromising,unenthusiastic,R_3EWrwqmT7dpkIOR,Independent,Neither positive nor negative,No,Yes,No,No
+1254,victory,risky,equal,justice,R_qyl7unmOMGXJggF,Independent,A little positive,No,No,Yes,No
+1255,liberal,welfare,environmentalist,non traditional,R_31Y5FL8MBp6yhy4,Republican,Neither positive nor negative,No,No,Yes,No
+1256,minorities,middle class,defenseless,underdog,R_1hy8AHjwHsgp3AZ,Independent,Neither positive nor negative,No,No,No,Yes
+1257,weak,messy,big,wrong,R_2XaNYqr6fQqSWzg,Republican,Very negative,No,No,No,No
+1258,lenient,agnostic,poor,liberal,R_57jXrdbfVyaFVYN,Republican,A little negative,No,No,No,No
+1259,liberal,free speech,anti trump,working class,R_3jU766QTC8Tj8zE,Republican,Neither positive nor negative,No,No,No,Yes
+1260,determined,trustworthy,passionate,friendly,R_1LG1NMpzNbxhrmQ,Democrat,Very positive,No,Yes,No,No
+1261,dependent,self entitlement,politically correct,selfish,R_2xz4EiquwYkK84W,Republican,Very negative,Yes,Yes,No,No
+1262,liberal,socialist,naive,wrong,R_2y18L8gTZMR6AKL,Republican,Very negative,Yes,No,Yes,No
+1263,woman,minorities,liberal,giving,R_SHNeWpP24d0opCp,Republican,Neither positive nor negative,No,No,No,Yes
+1264,liberal,compassionate,hippy,politically correct,R_1n0dAp1kr3GugoU,Republican,Neither positive nor negative,No,Yes,No,No
+1265,liberal,anti gun,freeloader,minority,R_1RJbOIut0TRjDCF,Republican,Very negative,Yes,No,Yes,Yes
+1266,liberal,diverse,doer,social,R_2OZPQNKAeQFw4ky,Independent,A little positive,No,No,No,No
+1267,liberal,wicked,evil,racist,R_PND3bZj3Lh1hsKl,Republican,Very negative,Yes,Yes,No,No
+1268,liberal,positive,fanatical,passive,R_33ljjpekC4Wczq6,Republican,A little negative,Yes,Yes,No,No
+1269,empathetic,liberal,informed,gullible,R_Tw5HtQEP6lRDGxP,Republican,A little negative,No,Yes,No,No
+1270,liberal,sensitive,just,open-minded,R_wZ8OCylekFLtYuR,Independent,A little positive,No,Yes,No,No
+1271,welfare,ignorant,violent,uneducated,R_cT4YkrsAgaKhpwl,Republican,Very negative,Yes,Yes,Yes,No
+1272,people advocate,regulation,economy,responsibility,R_28B7lQ2S9lWmd13,Independent,Neither positive nor negative,No,No,Yes,No
+1273,openminded,smart,caring,nonjudgmental,R_2V2BhDeRIC1sxqj,Democrat,Very positive,No,Yes,No,No
+1274,liberal,young,active,aware,R_p9IztyEv3LbhZQZ,Democrat,A little positive,No,No,No,No
+1275,cheat,dumb,government,taxes,R_V4Pm4pdfQU7ipiN,Republican,Very negative,Yes,Yes,Yes,No
+1276,liberal,capitalism,warm,smart,R_3Do7ca6bnuNTCs7,Independent,A little positive,No,Yes,Yes,No
+1277,liberal,progressive,intelligent,wealthy,R_3oQT6a7JXG52Q4m,Republican,A little positive,No,No,No,No
+1278,poorer,hardworking,caring,overwhelmed,R_2v6rtMmk2X1Y8Ke,Independent,A little positive,No,Yes,No,No
+1279,liberal,partisan,modern,giving,R_2YqZIqoUD9wsnaP,Independent,A little positive,No,No,No,No
+1280,liberal,young,middle income,educated,R_UARuEa4ofLduVMd,Independent,Neither positive nor negative,No,No,No,Yes
+1281,liberal,open,giving,shared economy,R_3iX6l2IqeaP2xHy,Independent,A little positive,No,No,Yes,No
+1282,good,gentle,intelligent,worthy,R_3nu9mHsiJP9jMsx,Democrat,Very positive,No,Yes,No,No
+1283,open-minded,changes,freely,fun,R_2y26AYMT4U0RENX,Democrat,A little positive,No,Yes,No,No
+1284,liberal,nasty,gay,one sided,R_1jj5RGzQYrTj2F2,Republican,Very negative,Yes,Yes,No,Yes
+1285,liberal,open-minded,progressive,equal,R_1gSy9YAN163jioY,Democrat,A little positive,No,No,No,No
+1286,young,low income,unemployed,ignorant,R_3E9zeRsNH7kYOgh,Republican,Very negative,Yes,No,No,Yes
+1287,liberal,black,women,welfare,R_1OvqV7kaqY3FXKd,Republican,A little negative,No,No,Yes,Yes
+1288,smart,caring,thoughtful,liberal,R_A5aqcCVsA2aAun7,Democrat,Very positive,No,Yes,No,No
+1289,liberal,liars,poor,jobless,R_DbEkTsCM6TTJlXb,Republican,Very negative,Yes,Yes,No,No
+1290,liberal,progressive,opinionated,political,R_2wEtPduhsRjODyg,Independent,Neither positive nor negative,No,Yes,No,No
+1291,take,lie,socialism,decay,R_YPmybLd83oh7ia5,Republican,Very negative,Yes,Yes,Yes,No
+1292,generous,equality,minority,liberal,R_28MvPH1Ja7m0UOS,Democrat,A little positive,No,No,No,Yes
+1293,liberal,pro-choice,feminist,obstinate,R_3oHHOAppIkNFxnD,Republican,A little negative,No,No,Yes,No
+1294,liberal,choice,gun control,government,R_2QRjpWIrSp5rNTQ,Republican,Neither positive nor negative,No,No,Yes,No
+1295,liberal,selfish,wasteful,lazy,R_3dGqASf4UsgAM8e,Republican,Very negative,Yes,Yes,No,No
+1296,weak,misguided,soft,angry,R_1LhXXJ0daal0yDR,Republican,Very negative,Yes,Yes,No,No
+1297,working class,liberal,obama,welfare,R_qKDWZMzv8q39HPz,Republican,Neither positive nor negative,No,No,Yes,Yes
+1298,liberal,educated,aware,inclusive,R_3OdkaqmltKKubh5,Democrat,A little positive,No,No,No,No
+1299,liberal,whiny,dishonest,zealot,R_2dN1PjT5EoFeQuE,Republican,Very negative,Yes,Yes,No,No
+1300,educated,wealthy,liberal,diverse,R_3n1xLrnmqRWW92F,Independent,A little positive,No,No,No,Yes
+1301,working,poor,honest,trustworthy,R_2ypIs37ktKxG9Ki,Democrat,A little positive,No,Yes,No,No
+1302,educated,progressive,thinkers,activists,R_1H1uIwuXmxSopLb,Democrat,A little positive,No,Yes,No,No
+1303,liberal,socialist,minorities,civil rights,R_1GW7l1kUvextSdp,Republican,Neither positive nor negative,No,No,Yes,Yes
+1304,liberal,atheist,socialist,ignorant,R_3meif2JLLYariIO,Republican,Very negative,Yes,No,Yes,No
+1305,communist,liar,dishonest,out of touch,R_xlxIC4jsM1YDI9b,Republican,Very negative,Yes,Yes,No,No
+1306,greedy,snobbish,conceded,wrong,R_3m1tJHTSMEnQQrB,Republican,Very negative,Yes,Yes,No,No
+1307,big government,social issues,champion of poor,equality,R_ZkT0wNTby2r0uuB,Independent,A little positive,No,No,Yes,Yes
+1308,liberal,diverse,poor,peaceful,R_1Ol5RSdYD7TJsJO,Republican,Neither positive nor negative,No,No,No,Yes
+1309,liberal,accepting,uninformed,narrow minded,R_1IF2VHwdfiVidDt,Republican,Very negative,Yes,Yes,No,No
+1310,happy,nice,helping,together,R_2U5BKrgN6OiK29t,Democrat,Very positive,No,Yes,No,No
+1311,liberal,laid back,chill,pride,R_2tfbu7k8GxBvGFq,Independent,A little positive,No,Yes,No,No
+1312,naive,pedantic,liberal,diverse,R_Q0SqbHJDZNZKkoN,Republican,A little negative,No,Yes,No,No
+1313,semi educated,smart,polite,middle of the road,R_u9DAkdowUcJGmsN,Independent,A little positive,No,Yes,No,No
+1314,open,middle,concerned,revolutionary,R_1hMxKu0O6fQR0zp,Independent,A little positive,No,No,No,No
+1315,diverse,educated,liberal,informed,R_3pnBUTCA0w2SqAa,Democrat,A little positive,No,No,No,Yes
+1316,entitled,lazy,liberal,jealous,R_2tak2MK98PfVkzZ,Republican,Very negative,Yes,Yes,No,No
+1317,honest,trustworthy,smart,knowledgeable,R_1ps1IlwHFYVIey8,Democrat,Very positive,No,Yes,No,No
+1318,liberal,blue collar,minorities,youth,R_1DS8xvyPmROpzcv,Independent,Neither positive nor negative,No,No,No,Yes
+1319,emotional,liberal,progressive,idealistic,R_bgyzkTP5O8E1Nxn,Independent,Neither positive nor negative,No,Yes,No,No
+1320,liberal,left,modern,spenders,R_1l0OlM7BbSrqRs5,Republican,A little negative,No,No,Yes,No
+1321,progressive,equal rights,tax increase,risky,R_1OE3ApzBOtuWO5I,Republican,A little negative,No,No,Yes,No

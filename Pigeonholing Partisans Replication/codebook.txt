@@ -1,0 +1,11 @@
+model_name - The model's name
+correct_pids - percent of time the coders were able to correctly guess the party id of the list writer
+positive - percent of the responses coded as positive
+extreme	 - percent of the responses coded as extreme
+personality	- percent of the responses coded as containing personality traits
+policy - percent of the responses coded as mentioning policy issues
+social_groups - percent of the responses coded as mentioning social groups
+delta - absolute value of difference between this model and the human data averaged across all categories
+ttr	- type/token ratio, a simple measure of lexical diversity
+missing_some - % of responses missing at least one of the 4 words
+missing_all - % of responses missing all 4 words
