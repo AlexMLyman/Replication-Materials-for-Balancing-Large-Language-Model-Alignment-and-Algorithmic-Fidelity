@@ -27,3 +27,7 @@ This code can be run end-to-end.
 ## Online Appendix
 
 PDF of the online appendix.
+
+
+
+[![DOI](https://zenodo.org/badge/932406047.svg)](https://doi.org/10.5281/zenodo.15375190)
